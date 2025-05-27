@@ -13,9 +13,7 @@ redirect_from:
 
 <!--author-->
 
-# Publications
-Coming soon. Check out my <a href="https://scholar.google.de/citations?hl=de&user=KZgVPNMAAAAJ&view_op=list_works&sortby=pubdate">GoogleScholar</a> in the meantime.
-
+(PS: This website is still under construction.)
 
 
 [jekyll]: https://jekyllrb.com
