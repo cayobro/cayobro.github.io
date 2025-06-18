@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 
 ---
-Publications organized by topic. Check out my <a href="https://scholar.google.de/citations?hl=de&user=KZgVPNMAAAAJ&view_op=list_works&sortby=pubdate">GoogleScholar</a> for a purely chronological overview!
+Publications organized by topic. Check out my <a href="https://scholar.google.de/citations?hl=de&user=KZgVPNMAAAAJ&view_op=list_works&sortby=pubdate">GoogleScholar</a> for a chronological overview!
 - [Robotics Publications](#robotics-publications)
 - [Control Theory Publications](#control-theory-publications)
 - [Biomedical Engineering Publications](#biomedical-engineering-publications)
@@ -27,13 +27,19 @@ D. Müller, **C. Veil**, O. Sawodny. *21st IFAC World Congress*, Berlin, 2020.
 
 ## Control Theory Publications
 ### Journal Papers 
+- **Stabilization of Age-Structured Competing Populations**  
+  **C. Veil**, M. Krstić, P. McNamee, O. Sawodny. Submitted to *automatica*, 2025.
+- **Tracking Control for Competing Multi-Species Population Dynamics governed by Integro-PDEs**  
+  **C. Veil**, B. Blagojevic, M. Hammami, O.Sawodny. Submitted to *MECC with JDSMC Journal Option*, 2025.
 - **Stabilization of Predator-Prey Age-Structured Hyperbolic PDE when Harvesting Both Species is Inevitable**  
   **C. Veil**, M. Krstić, I. Karafyllis, M. Diagne, O. Sawodny. *arXiv:2410.06823*, submitted to *IEEE Transactions on Automatic Control*, 2024. [arXiv](https://arxiv.org/abs/2410.06823)
 - **Model-Based Feedforward Control of an Intra- and Interspecific Competitive Population System**  
   A.-C. Kurth, **C. Veil**, O. Sawodny. *IEEE Control Systems Letters*, 6, 3397–3402, 2022. [DOI](https://doi.org/10.1109/LCSYS.2022.3183894)
 ### Peer-Reviewed Conference Papers
+- **Stabilization of Age-Structured Competition (Predator-Predator) Population Dynamics**  
+  **C. Veil**, P. McNamee, M. Krstić, O. Sawowdny. Submitted to *IEEE Conference on Decision and Control (CDC)*, 2025.
 - **Stabilization of Predator-Prey Age-Structured Hyperbolic PDE when Harvesting both Species is Inevitable**  
-**C. Veil**, M. Krstić, I. Karafyllis, M. Diagne, O. Sawodny. *IEEE American Control Conference*, 2025.
+  **C. Veil**, M. Krstić, I. Karafyllis, M. Diagne, O. Sawodny. *IEEE American Control Conference*, 2025.
 - **Steady-State Analysis of a Competitive Age-Structured Population System with Two Inputs**  
   **C. Veil**, E. Arnold, O. Sawodny. *IEEE Conference on Systems, Man, and Cybernetics*, 2024.
 
@@ -52,6 +58,12 @@ T. M. Wolff, **C. Veil**, J. W. Dietrich, M. A. Müller. *Frontiers in Endocrino
 **C. Veil**, S. Petillon, J. Hotz, A. Knöller, A. Zimmermann, O. Sawodny. *IEEE Sensors Journal*, 2021. [DOI](https://doi.org/10.1109/JSEN.2021.3108779)
 
 ### Peer-Reviewed Conference Papers
+- **BlaVeS: A Novel Hand-Labeled Dataset for Improved Bladder Vessel Segmentation with Modified U-Net**  
+F. Krauß, N. Smati, M. Ege, Z. Lovasz, O. Sawodny, **C. Veil**. *47th Annual International Conference of the IEEE Engineering in Biology and Medicine Society*, 2025.
+- **Multiphysical Tumor Tissue Modeling for Improved Multimodal Sensor-Based Diagnostics**  
+M. Ege, F. Krauß, Z. Lovasz, V. Bahlinger, E. Hellwich, O. Sawodny, C. Tarín, **C. Veil**. *47th Annual International Conference of the IEEE Engineering in Biology and Medicine Society*, 2025.
+- **Tumor Margin Estimation through Simulated Impedivity Mappings Using a Multielectrode Sensor Array**  
+Z. Lovasz, F. Krauß, M. Ege, O. Sawodny, **C. Veil**. *47th Annual International Conference of the IEEE Engineering in Biology and Medicine Society*, 2025.
 - **Simultaneous Description and Detection of Sparse Features for Deformable Intraoperative Bladder Environments**  
 F. Krauß, M. Ege, Z. Lovasz, J. Schüle, A. Kielbik, **C. Veil**, O. Sawodny. *IEEE Sensors*, 2024.
 - **Enhancing Bioimpedance Tissue Classification with Elastography Sensor Data via Multimodal Learning**  
@@ -83,6 +95,11 @@ P. Somers, J. Seibold, N. Lipke, N. Harland, B. Amend, A. Stenzl, J. Schüle, **
 - **Multi-Physical Tissue Modelling of a Human Urinary Bladder**  
 J. Schüle, F. Krauß, **C. Veil**, S. Kunkel, P. Somers, C. Tarín, O. Sawodny. *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society*, 2021.
 
+
+## Misc
+Sometimes I write papers that don't have anything to do with my research :)
+- **From the Ground Up: IEEE NextCom’s Inaugural Year of Impact and Growth**  
+N. Ozay, T. Roy, **C. Veil**, B. Butler, A. Bizyaeva, P. Paré. *IEEE Control Systems Magazine*, vol. 45, no. 3, pp. 15-18, June 2025. [DOI](https://doi.org/10.1109/MCS.2025.3554945)
 
 ## Invited Talks
 

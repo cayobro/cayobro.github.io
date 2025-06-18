@@ -13,7 +13,13 @@ redirect_from:
 
 <!--author-->
 
-(PS: This website is still under construction.)
+<!-- (PS: This website is still under construction.) -->
+
+## My past in academia
+- since 04/2025: Postdoc at Stanford University (soft robotics)
+- 05/2023-02/2025: Postdoc and research group leader at the University of Stuttgart (control of population dynamics)
+- 04/2023: PhD (Dr.-Ing.) at the University of Stuttgart, *summa cum laude*, (intraoperative tissue differentiation)
+- 05/2020: Master of Science *Engineering Cybernetics* at the University of Stuttgart (specializing in robotics, advanced control)
 
 
 [jekyll]: https://jekyllrb.com

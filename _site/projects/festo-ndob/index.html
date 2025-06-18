@@ -30,21 +30,22 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
   
     
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>News | Carina Veil</title>
+<title>Nonlinear Disturbance Observers for Robotic Continuum Manipulators | Carina Veil</title>
 <meta name="generator" content="Jekyll v4.4.1" />
-<meta property="og:title" content="News" />
+<meta property="og:title" content="Nonlinear Disturbance Observers for Robotic Continuum Manipulators" />
 <meta name="author" content="Carina Veil" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Carina Veil is a postdoc at Stanford University, where she works on control algorithms for soft robots." />
-<meta property="og:description" content="Carina Veil is a postdoc at Stanford University, where she works on control algorithms for soft robots." />
-<link rel="canonical" href="http://localhost:4000/news/" />
-<meta property="og:url" content="http://localhost:4000/news/" />
+<meta name="description" content="I worked with Festo’s Bionic soft arm as a graduate research assistant at University of Stuttgart (2019-2020)." />
+<meta property="og:description" content="I worked with Festo’s Bionic soft arm as a graduate research assistant at University of Stuttgart (2019-2020)." />
+<link rel="canonical" href="http://localhost:4000/projects/festo-ndob/" />
+<meta property="og:url" content="http://localhost:4000/projects/festo-ndob/" />
 <meta property="og:site_name" content="Carina Veil" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-06-18T16:43:24-07:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="News" />
+<meta property="twitter:title" content="Nonlinear Disturbance Observers for Robotic Continuum Manipulators" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Carina Veil"},"dateModified":"2025-05-26T18:23:17-07:00","description":"Carina Veil is a postdoc at Stanford University, where she works on control algorithms for soft robots.","headline":"News","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/cveilcropped.jpg"},"name":"Carina Veil"},"url":"http://localhost:4000/news/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Carina Veil"},"dateModified":"2025-06-18T16:28:32-07:00","datePublished":"2025-06-18T16:43:24-07:00","description":"I worked with Festo’s Bionic soft arm as a graduate research assistant at University of Stuttgart (2019-2020).","headline":"Nonlinear Disturbance Observers for Robotic Continuum Manipulators","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/cveilcropped.jpg"},"name":"Carina Veil"},"url":"http://localhost:4000/projects/festo-ndob/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -78,7 +79,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
 <meta name="generator" content="Hydejack v9.2.1" />
 
 
-<link rel="alternate" href="http://localhost:4000/news/" hreflang="en">
+<link rel="alternate" href="http://localhost:4000/projects/festo-ndob/" hreflang="en">
 
 <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Carina Veil" />
 
@@ -230,7 +231,7 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79, 177, 186, 0.
 
   <main
   id="_main"
-  class="content layout-list"
+  class="content layout-page"
   role="main"
 >
   <nav id="breadcrumbs" class="screen-only"><ul>
@@ -241,7 +242,16 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79, 177, 186, 0.
       <li>
         
           <span>/</span>
-          <span>news</span>
+          
+          
+          <a href="/projects/">projects</a>
+        
+      </li>
+    
+      <li>
+        
+          <span>/</span>
+          <span>festo-ndob</span>
         
       </li>
     
@@ -249,7 +259,7 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79, 177, 186, 0.
 </ul></nav>
   <article class="page mb6" role="article">
   <header>
-    <h1 class="page-title">News</h1>
+    <h1 class="page-title">Nonlinear Disturbance Observers for Robotic Continuum Manipulators</h1>
     
 
 
@@ -259,59 +269,32 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79, 177, 186, 0.
 
   </header>
 
-  
+  <p>I worked with <strong><a href="https://www.festo.com/us/en/e/about-festo/research-and-development/bionic-learning-network/bionic-grippers-and-soft-robots-id_33288/">Festo’s Bionic soft arm</a></strong> as a graduate research assistant at University of Stuttgart (2019-2020).</p>
 
+<blockquote>
+  <p>🔗 <strong>Related Publications</strong><br />
+See <a href="/publications/#robotics-publications">Robotics Publications</a></p>
+</blockquote>
 
+<p><img src="/assets/img/research/festo-bsa.jpg" alt="Festo BSA" width="500" /></p>
 
+<p>A safe collaborative work environment is enabled by so-called soft robots, which constitute a human-friendly alternative to classical rigid industrial robots. However, modeling soft robots proves difficult and results in a lack of accuracy for control tasks.
+I introduced the concept of <strong>disturbance observer-based control</strong> for Festo’s Bionic Soft arm, a quasi-continuum manipulators with pneumatic bellows. In doing so, unknown model errors are considered as disturbances and estimated by an observer. This estimate is used to actively reject the perturbation. 
+All implemented observer concepts (nonlinear observers, EKFs) combined with a PD control show superior performance compared to an existing benchmark concept based on PID-like control. Thanks to the modularity of this approach, disturbance observers are a <strong>simple, yet powerful addition to any control concept</strong>.</p>
 
+<p><a href="https://doi.org/10.1016/j.mechatronics.2021.102518">📄 Key publication</a></p>
 
+<p><img src="/assets/img/research/ndob.jpg" alt="NDOB Concept" width="500" /></p>
 
+<p>During this time, I also contributed to other research that dealt with:</p>
+<ul>
+  <li>Hybrid force/position control <a href="https://doi.org/10.1515/auto-2020-0053">📄</a>.</li>
+  <li>One-Shot kinesthetic programming by demonstration <a href="https://doi.org/10.1016/j.mechatronics.2020.102418">📄</a>.</li>
+</ul>
 
+<hr />
 
-
-
-
-  
-  
-    
-    <h2 id="y-2025" class="hr-bottom">2025</h2>
-    <ul class="related-posts">
-    
-  
-  
-
-
-<li class="h4">
-  <a href="/2025-05-22-featured-ieee-ras/" class="flip-title"><span>Featured on the Research Spotlight by IEEE RAS</span></a>
-  <time class="faded fine" datetime="2025-05-22T00:00:00-07:00">22 May</time>
-</li>
-
-  
-
-  
-  
-  
-
-
-<li class="h4">
-  <a href="/2025-02-01-nextcom/" class="flip-title"><span>Member of NextCom by CSS for 2025</span></a>
-  <time class="faded fine" datetime="2025-02-01T00:00:00-08:00">01 Feb</time>
-</li>
-
-  
-
-  
-  
-  
-
-
-<li class="h4">
-  <a href="/2025-01-01-embs/" class="flip-title"><span>Chair of the IEEE EMBS Germany Chapter for 2025-2026</span></a>
-  <time class="faded fine" datetime="2025-01-01T00:00:00-08:00">01 Jan</time>
-</li>
-
-  </ul>
-
+<p><em>Last updated: June 2025</em></p>
 
 </article>
 
