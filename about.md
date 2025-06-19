@@ -17,8 +17,8 @@ redirect_from:
 
 ## Educational Milestones
 
-<!-- | Date        | University              | Position                                          |
-|-------------|--------------------------------------|-------------------------------------------------------------| -->
+| Year        | University              | Position                                          |
+|-------------|--------------------------------------|-------------------------------------------------------------|
 | Since 2025  | Stanford University                  | Postdoc in Soft Robotics                                    |
 | 2023–2025   | University of Stuttgart              | Postdoc in Control Theory and Research Group Leader in Biomedical Engineering |
 | 2024        | UC San Diego                         | Visiting Researcher with Miroslav Krstić                    |
