@@ -15,11 +15,24 @@ redirect_from:
 
 <!-- (PS: This website is still under construction.) -->
 
-## My past in academia
-- since 04/2025: Postdoc at Stanford University (soft robotics)
+## Educational Milestones
+
+| Date        | University / Institution             | Position / Degree                                           |
+|-------------|--------------------------------------|-------------------------------------------------------------|
+| Since 2025  | Stanford University                  | Postdoc in Soft Robotics                                    |
+| 2023–2025   | University of Stuttgart              | Postdoc in Control Theory and Research Group Leader in Biomedical Engineering |
+| 2024        | UC San Diego                         | Visiting Researcher with Miroslav Krstić                    |
+| 2020–2023   | University of Stuttgart              | Ph.D. (Dr.-Ing.) in Biomedical Engineering                  |
+| 2022        | The University of Tokyo              | Visiting Researcher with Masayuki Fujita                   |
+| 2018–2020   | University of Stuttgart              | M.Sc. in Engineering Cybernetics                            |
+| 2017        | Bosch                                | Internship in Automotive Software Development               |
+| 2014–2017   | University of Stuttgart              | B.Sc. in Biomedical Engineering                             |
+
+
+<!-- - since 04/2025: Postdoc at Stanford University (soft robotics)
 - 05/2023-02/2025: Postdoc and research group leader at the University of Stuttgart (control of population dynamics)
 - 04/2023: PhD (Dr.-Ing.) at the University of Stuttgart, *summa cum laude*, (intraoperative tissue differentiation)
-- 05/2020: Master of Science *Engineering Cybernetics* at the University of Stuttgart (specializing in robotics, advanced control)
+- 05/2020: Master of Science *Engineering Cybernetics* at the University of Stuttgart (specializing in robotics, advanced control) -->
 
 
 [jekyll]: https://jekyllrb.com
