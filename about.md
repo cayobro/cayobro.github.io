@@ -17,15 +17,15 @@ redirect_from:
 
 ## Educational Milestones
 
-| Date        | University / Institution             | Position / Degree                                           |
-|-------------|--------------------------------------|-------------------------------------------------------------|
+<!-- | Date        | University              | Position                                          |
+|-------------|--------------------------------------|-------------------------------------------------------------| -->
 | Since 2025  | Stanford University                  | Postdoc in Soft Robotics                                    |
 | 2023–2025   | University of Stuttgart              | Postdoc in Control Theory and Research Group Leader in Biomedical Engineering |
 | 2024        | UC San Diego                         | Visiting Researcher with Miroslav Krstić                    |
 | 2020–2023   | University of Stuttgart              | Ph.D. (Dr.-Ing.) in Biomedical Engineering                  |
 | 2022        | The University of Tokyo              | Visiting Researcher with Masayuki Fujita                   |
 | 2018–2020   | University of Stuttgart              | M.Sc. in Engineering Cybernetics                            |
-| 2017        | Bosch                                | Internship in Automotive Software Development               |
+| 2017-2018   | Bosch                                | Internship in Automotive Software Development               |
 | 2014–2017   | University of Stuttgart              | B.Sc. in Biomedical Engineering                             |
 
 
