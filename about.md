@@ -25,7 +25,7 @@ redirect_from:
 | 2020–2023   | University of Stuttgart              | Ph.D. (Dr.-Ing.) in Biomedical Engineering                  |
 | 2022        | The University of Tokyo              | Visiting Researcher with Masayuki Fujita                   |
 | 2018–2020   | University of Stuttgart              | M.Sc. in Engineering Cybernetics                            |
-| 2017-2018   | Bosch                                | Internship in Automotive Software Development               |
+| 2017-2018   | Bosch                                | 1 Year Internship in Automotive Software Development               |
 | 2014–2017   | University of Stuttgart              | B.Sc. in Biomedical Engineering                             |
 
 
