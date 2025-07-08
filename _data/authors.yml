@@ -7,8 +7,8 @@ cveil:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    I am a postdoctoral researcher at Stanford University and interested in control, machine learning, and optimization for (soft) bioinspired robots.
+  about:  
+    I am a postdoctoral researcher at Stanford University and interested in anything related to complex systems and control, at the intersection of nature, health, and engineering # interested in control, machine learning, and optimization for (soft) bioinspired robots.
 
   # This photo will be used in the about section
   picture:
