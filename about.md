@@ -13,7 +13,13 @@ redirect_from:
 
 <!--author-->
 
-<!-- (PS: This website is still under construction.) -->
+
+I am interested in anything related to complex systems and control, at the intersection of nature, health, and engineering. 
+
+My current projects include:
+* bioinspired (soft) robots: How to combine biomechanics, traditional model-based approaches, and AI to make these robots move the way we want to?
+* PDE control in the context of population dynamics: How can we mathematically describe and stabilize systems of multiple populations that occur, for example, in epidemics, demography, and ecology?
+* sensors and AI for tumor detection: How can we measure altered physical tissue properties in tumor, combine this information with imaging data and use AI to help surgeons to make a decision how much tissue to remove?
 
 ## Educational Milestones
 
