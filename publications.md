@@ -30,7 +30,7 @@ D. Müller, **C. Veil**, O. Sawodny. *21st IFAC World Congress*, Berlin, 2020.
 - **Stabilization of Age-Structured Competing Populations**  
   **C. Veil**, M. Krstić, P. McNamee, O. Sawodny. Submitted to *automatica*, 2025.
 - **Stabilization of Predator-Prey Age-Structured Hyperbolic PDE when Harvesting Both Species is Inevitable**  
-  **C. Veil**, M. Krstić, I. Karafyllis, M. Diagne, O. Sawodny. *arXiv:2410.06823*, submitted to *IEEE Transactions on Automatic Control*, 2024. [arXiv](https://arxiv.org/abs/2410.06823)
+  **C. Veil**, M. Krstić, I. Karafyllis, M. Diagne, O. Sawodny. *arXiv:2410.06823*, submitted to *IEEE Transactions on Automatic Control*, 2024. [arXiv](https://arxiv.org/abs/2410.06823) or [Early Access](https://ieeexplore.ieee.org/document/11080060).
 - **Model-Based Feedforward Control of an Intra- and Interspecific Competitive Population System**  
   A.-C. Kurth, **C. Veil**, O. Sawodny. *IEEE Control Systems Letters*, 6, 3397–3402, 2022. [DOI](https://doi.org/10.1109/LCSYS.2022.3183894)
 ### Peer-Reviewed Conference Papers
