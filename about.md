@@ -24,9 +24,9 @@ My current [projects](/projects/) include:
 |-------------|--------------------------------------|-------------------------------------------------------------|
 | Since 2025  | Stanford University                  | Postdoc in Soft Robotics                                    |
 | 2023–2025   | University of Stuttgart              | Postdoc in Control Theory and Research Group Leader in Biomedical Engineering |
-| 2024        | UC San Diego                         | Visiting Researcher with Miroslav Krstić                    |
+| 2024        | UC San Diego                         | Visiting Researcher with [Miroslav Krstić](https://flyingv.ucsd.edu) ([GoogleScholar](https://scholar.google.com/citations?user=V6MAuuoAAAAJ&hl=en))                 |
 | 2020–2023   | University of Stuttgart              | Ph.D. (Dr.-Ing.) in Biomedical Engineering                  |
-| 2022        | The University of Tokyo              | Visiting Researcher with Masayuki Fujita                   |
+| 2022        | The University of Tokyo              | Visiting Researcher with [Masayuki Fujita](https://scholar.google.com/citations?user=0LBPJ7MAAAAJ&hl=en)                 |
 | 2018–2020   | University of Stuttgart              | M.Sc. in Engineering Cybernetics                            |
 | 2017-2018   | Bosch                                | 1 Year Internship in Automotive Software Development               |
 | 2014–2017   | University of Stuttgart              | B.Sc. in Biomedical Engineering                             |
@@ -38,7 +38,7 @@ My current [projects](/projects/) include:
 #### Academic service
 * 2025-2026: Chair of the [IEEE Engineering Medicine and Biology Germany Chapter](https://www.ieee.de/chapterpage_emb/) [(👉more)](/_posts/2025-01-01-embs.md).
 * 2025: Communications Co-Chair of [IEEE NextCom by the Control System Society](https://sites.google.com/view/css-nextcom/home?authuser=0) [(👉more)](/_posts/2025-02-01-nextcom.md).
-* 2025: Observer in the assessment centers of the [Femtec](https://www.femtec.org/en/) network
+* 2025: Observer in the assessment centers of the [Femtec](https://www.femtec.org/en/) network.
 * since 2023: Active member of IEEE, IEEE CSS (Control System Society), IEEE EMBS (Engineering Medicine and Biology), IEEE WIE (Women in Engineering).
 
 
@@ -51,8 +51,8 @@ My current [projects](/projects/) include:
 
 #### Involvement in conferences
 * (Outlook) 2025: Presenting in invited session on *Estimation and Control of Distributed Parameter Systems* at the [64th IEEE Conference on Decision and Control](https://cdc2025.ieeecss.org).
-*	2025: Programm Committee ISMT 2026 (3rd International Conference on Integrated Systems in Medical Technologies)
-* 2025: Session chair at the [47th Annual International Conference of the IEEE EMBS (EMBC)](https://embc.embs.org/2025/) for *Prosthetics and Exoskeletons design* and *Cancer diagnosis and prognosis*
+*	2025: Programm Committee ISMT 2026 (3rd International Conference on Integrated Systems in Medical Technologies).
+* 2025: Session chair at the [47th Annual International Conference of the IEEE EMBS (EMBC)](https://embc.embs.org/2025/) for *Prosthetics and Exoskeletons design* and *Cancer diagnosis and prognosis*.
 <!-- * 2025: Attending [47th Annual International Conference of the IEEE EMBS (EMBC)](https://embc.embs.org/2025/) with three last-author papers [(👉more)](/_posts/2025-07-14-embc.md). -->
 * 2025: Presenting in invited session on *Estimation and Control of Distributed Parameter Systems*  at the [American Control Conference (ACC)](https://acc2025.a2c2.org) [(👉more)](/_posts/2025-07-01-acc.md).
 
