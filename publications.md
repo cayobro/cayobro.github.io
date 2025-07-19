@@ -35,7 +35,7 @@ D. Müller, **C. Veil**, O. Sawodny. *21st IFAC World Congress*, Berlin, 2020.
   A.-C. Kurth, **C. Veil**, O. Sawodny. *IEEE Control Systems Letters*, 6, 3397–3402, 2022. [DOI](https://doi.org/10.1109/LCSYS.2022.3183894)
 ### Peer-Reviewed Conference Papers
 - **Stabilization of Age-Structured Competition (Predator-Predator) Population Dynamics**  
-  **C. Veil**, P. McNamee, M. Krstić, O. Sawowdny. Submitted to *IEEE Conference on Decision and Control (CDC)*, 2025.
+  **C. Veil**, P. McNamee, M. Krstić, O. Sawowdny. Accepted to *IEEE Conference on Decision and Control (CDC)*, 2025.
 - **Tracking Control for Competing Multi-Species Population Dynamics governed by Integro-PDEs**  
   **C. Veil**, B. Blagojevic, M. Hammami, O.Sawodny. Accepted to *The 5th Modeling, Estimation and Control Conference (MECC)*, 2025.
 - **Stabilization of Predator-Prey Age-Structured Hyperbolic PDE when Harvesting both Species is Inevitable**  
