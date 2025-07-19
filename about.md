@@ -24,7 +24,7 @@ My current [projects](/projects/) include:
 |-------------|--------------------------------------|-------------------------------------------------------------|
 | Since 2025  | Stanford University                  | Postdoc in Soft Robotics                                    |
 | 2023–2025   | University of Stuttgart              | Postdoc in Control Theory and Research Group Leader in Biomedical Engineering |
-| 2024        | UC San Diego                         | Visiting Researcher with [Miroslav Krstić](https://flyingv.ucsd.edu) ([GoogleScholar](https://scholar.google.com/citations?user=V6MAuuoAAAAJ&hl=en))                 |
+| 2024        | UC San Diego                         | Visiting Researcher with [Miroslav Krstić](https://flyingv.ucsd.edu) [(GoogleScholar)](https://scholar.google.com/citations?user=V6MAuuoAAAAJ&hl=en)                 |
 | 2020–2023   | University of Stuttgart              | Ph.D. (Dr.-Ing.) in Biomedical Engineering                  |
 | 2022        | The University of Tokyo              | Visiting Researcher with [Masayuki Fujita](https://scholar.google.com/citations?user=0LBPJ7MAAAAJ&hl=en)                 |
 | 2018–2020   | University of Stuttgart              | M.Sc. in Engineering Cybernetics                            |
