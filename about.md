@@ -79,7 +79,7 @@ My current [projects](/projects/) include:
 *	Teaching assistant: Fundamentals of system dynamics in medical engineering, winter terms 2020-2023.
 *	Teaching assistant: Project seminar “Inverse pendulum”, 2020-2023.
 * Thesis supervision: 
-  * Master thesis (M.Sc. Engineering Cybernetics): *Control of linearized population system with two species*, ongoing.
+  * Master thesis (M.Sc. Engineering Cybernetics): *Feedforward Control Design for Competing Population Systems with Two Species*, 04/2025.
   * Master thesis (M.Sc. Biomedical Engineering): *Detection of bleeding based on electrical measurement data and adaptation of an APC mode for optimized treatment*, 04/2024.
   * Master thesis (M.Sc. Biomedical Engineering): *Assessing the effects of a hand exoskeleton in stroke patients: development of a method combining EMG, kinematics and device data*, 04/2023, in collaboration with [emovo care](https://www.google.com/search?client=safari&rls=en&q=emovo+care&ie=UTF-8&oe=UTF-8) and the [BioRob Lab at EPFL](https://www.epfl.ch/labs/biorob/).
   * Student research project (M.Sc. Biomedical Engineering): *Characterization of contact force and tremor in manual impedance measurements*, 09/2022.
