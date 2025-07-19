@@ -1,6 +1,7 @@
 ---
 title: Controlling multi-species population dynamics
 layout: page
+keywords: [Carina Veil, PDE, Control, Population Dynamics, Researcher]
 # description: Test
 permalink: /projects/popdyn/
 

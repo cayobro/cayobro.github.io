@@ -1,6 +1,7 @@
 ---
 title: Intraoperative Multi-Sensor Tissue Differentiation in Oncology
 layout: page
+keywords: [Carina Veil, Researcher, Tumor Differentiation, AI in Medicine, Sensors]
 # description: Intraoperative Multi-Sensor Tissue Differentiation in Oncology
 permalink: /projects/grk/
 
