@@ -103,15 +103,15 @@ N. Ozay, T. Roy, **C. Veil**, B. Butler, A. Bizyaeva, P. Paré. *IEEE Control Sy
 
 ## Invited Talks
 
-- *Plenary speaker*, “Female Leadership Development Panel”, 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society (EMBC), 2024.
-- *Intraoperative Multi-Sensor Tissue Differentiation in Oncology*  
-  Technical University Berlin, Institute of Chemical and Process Engineering, March 1, 2024.
-- *Impedance-Based Tumor Differentiation in the Urinary Bladder*  
-  IEEE EMBS Germany Chapter – EMBC 2023 Recap, September 4, 2023.
+* *Population Dynamics - How to model and control interaction-related phenomena*. University Medical Center Göttingen, 09.12.2024.
+* Plenary speaker at the *Female Leadership Development Panel* at the 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society, 2024.
+*	*Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. Technical University Berlin, Institute of Chemical and Process Engineering, 01.03.2024.
+*	*Impedance-Based Tumor Differentiation in the Urinary Bladder*. IEEE EMBS Germany Chapter – EMBC 2023 Recap, 04.09.2023.
+
 
 ## Conferences Attended
-- IEEE Engineering in Medicine and Biology Conference (EMBC): 2021, 2022, 2023, 2024, (2025)
+- IEEE Engineering in Medicine and Biology Conference (EMBC): 2021, 2022, 2023, 2024, 2025
 - IEEE Conference on Decision and Control (CDC): 2022, 2024, (2025)
-- IEEE American Control Conference (ACC): (2025)
+- IEEE American Control Conference (ACC): 2025
 - IFAC Vienna International Conference on Mathematical Modelling (MATHMOD): 2022  
 - IEEE Conference on Systems, Man, and Cybernetics (SMC): 2023, 2024

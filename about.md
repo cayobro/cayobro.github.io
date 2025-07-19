@@ -18,7 +18,7 @@ My current [projects](/projects/) include:
 * PDE control in the context of [population dynamics](/projects/popdyn/): How can we mathematically describe and stabilize systems of multiple populations that occur, for example, in epidemics, demography, and ecology?
 * sensors and AI for [tumor detection](/projects/grk/): How can we measure altered physical tissue properties in tumor, combine this information with imaging data and use AI to help surgeons to make decisions?
 
-## Educational Milestones
+### Educational and academic milestones
 
 | Year        | University              | Position                                          |
 |-------------|--------------------------------------|-------------------------------------------------------------|
@@ -32,10 +32,54 @@ My current [projects](/projects/) include:
 | 2014–2017   | University of Stuttgart              | B.Sc. in Biomedical Engineering                             |
 
 
-<!-- - since 04/2025: Postdoc at Stanford University (soft robotics)
-- 05/2023-02/2025: Postdoc and research group leader at the University of Stuttgart (control of population dynamics)
-- 04/2023: PhD (Dr.-Ing.) at the University of Stuttgart, *summa cum laude*, (intraoperative tissue differentiation)
-- 05/2020: Master of Science *Engineering Cybernetics* at the University of Stuttgart (specializing in robotics, advanced control) -->
+
+### More details
+
+#### Academic service
+* 2025-2026: Chair of the [IEEE Engineering Medicine and Biology Germany Chapter](https://www.ieee.de/chapterpage_emb/) [(👉more)](/_posts/2025-01-01-embs.md).
+* 2025: Communications Co-Chair of [IEEE NextCom by the Control System Society](https://sites.google.com/view/css-nextcom/home?authuser=0) [(👉more)](/_posts/2025-02-01-nextcom.md).
+* 2025: Observer in the assessment centers of the [Femtec](https://www.femtec.org/en/) network
+* since 2023: Active member of IEEE, IEEE CSS (Control System Society), IEEE EMBS (Engineering Medicine and Biology), IEEE WIE (Women in Engineering).
+
+
+#### Recognitions
+* (Outlook) 2026-2028: [Feodor-Lynen Scholarship](https://www.humboldt-foundation.de/bewerben/foerderprogramme/feodor-lynen-forschungsstipendium) by the Alexander von Humboldt foundation to fund two years of research at Stanford University with Prof. Ellen Kuhl.
+* 2025: [Best Regional Professional Chapter Award](https://www.embs.org/membership/chapters/regional-chapter-awards/) for the IEEE EMBS Germany Chapter, where I am the chair.
+* 2024: Nomination for the [Bertha-Benz Price](https://www.daimler-benz-stiftung.de/cms/en/promote/bertha-benz-prizex/the-prize.html): Candidate of the University of Stuttgart for an outstanding dissertation in engineering.
+* 2023: [Featured Article](https://www.embs.org/tbme/articles/enhancing-tissue-impedance-measurement-through-modeling-of-fluid-flow-during-viscoelastic-relaxation/) in IEEE’s Transactions on Biomedical Engineering highlights.
+* 2014-2017: Full [scholarship](https://www.student.uni-stuttgart.de/studiengang/Medizintechnik-B.Sc./?page=frderfonds) provided by Förderfonds Medizintechnik (financial aid and mentoring for the most promising students in the medical engineering study program).
+
+#### Involvement in conferences
+* (Outlook) 2025: Presenting in invited session on *Estimation and Control of Distributed Parameter Systems* at the [64th IEEE Conference on Decision and Control](https://cdc2025.ieeecss.org).
+*	2025: Programm Committee ISMT 2026 (3rd International Conference on Integrated Systems in Medical Technologies)
+* 2025: Session chair at the [47th Annual International Conference of the IEEE EMBS (EMBC)](https://embc.embs.org/2025/) for *Prosthetics and Exoskeletons design* and *Cancer diagnosis and prognosis*
+<!-- * 2025: Attending [47th Annual International Conference of the IEEE EMBS (EMBC)](https://embc.embs.org/2025/) with three last-author papers [(👉more)](/_posts/2025-07-14-embc.md). -->
+* 2025: Presenting in invited session on *Estimation and Control of Distributed Parameter Systems*  at the [American Control Conference (ACC)](https://acc2025.a2c2.org) [(👉more)](/_posts/2025-07-01-acc.md).
+
+
+#### Invited talks
+* 2024: *Population Dynamics - How to model and control interaction-related phenomena*. University Medical Center Göttingen.
+* 2024: Plenary speaker at the *Female Leadership Development Panel* at the 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society.
+*	2024: *Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. Technical University Berlin, Institute of Chemical and Process Engineering.
+*	2023: *Impedance-Based Tumor Differentiation in the Urinary Bladder*. IEEE EMBS Germany Chapter – EMBC 2023 Recap.
+
+#### Reviews
+* 2025: ACS In Focus series.
+*	2025: [American Control Conference](https://acc2025.a2c2.org) (ACC).
+*	2024: Springer Nature Scientific Reports.
+*	2024: International Journal for Numerical Methods in Biomedical Engineering.
+
+#### Teaching and mentoring
+* PhD Co-Supervision (2023-2026) at University of Stuttgart:
+  * F. Krauß: *Navigation and localization of multi-modal sensors in the bladder*.
+  * M. Ege: *Data-driven and model-based fusion of multi-modal sensors for tissue differentiation*.
+  * Z. Lovasz: *Electrical impedance-based tissue characterization for tumor detection and margin estimation*.
+* Lecturer: Simulation methods for dynamic systems, winter term 2024/2025.
+*	Teaching assistant: Distributed parameter systems, summer term 2023.
+*	Teaching assistant: Fundamentals of system dynamics in medical engineering, winter terms 2020-2023.
+*	Teaching assistant: Project seminar “Inverse pendulum”, 2020-2023.
+* Thesis supervision: 20+ since 2020... and counting.
+
 
 
 [jekyll]: https://jekyllrb.com
