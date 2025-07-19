@@ -78,7 +78,19 @@ My current [projects](/projects/) include:
 *	Teaching assistant: Distributed parameter systems, summer term 2023.
 *	Teaching assistant: Fundamentals of system dynamics in medical engineering, winter terms 2020-2023.
 *	Teaching assistant: Project seminar “Inverse pendulum”, 2020-2023.
-* Thesis supervision: 20+ since 2020... and counting.
+* Thesis supervision: 
+  * Master thesis (M.Sc. Engineering Cybernetics): *Control of linearized population system with two species*, ongoing.
+  * Master thesis (M.Sc. Biomedical Engineering): *Detection of bleeding based on electrical measurement data and adaptation of an APC mode for optimized treatment*, 04/2024.
+  * Master thesis (M.Sc. Biomedical Engineering): *Assessing the effects of a hand exoskeleton in stroke patients: development of a method combining EMG, kinematics and device data*, 04/2023, in collaboration with [emovo care](https://www.google.com/search?client=safari&rls=en&q=emovo+care&ie=UTF-8&oe=UTF-8) and the [BioRob Lab at EPFL](https://www.epfl.ch/labs/biorob/).
+  * Student research project (M.Sc. Biomedical Engineering): *Characterization of contact force and tremor in manual impedance measurements*, 09/2022.
+  * Student research project (M.Sc. Biomedical Engineering): *Patient-based tissue differentiation using electrical impedance spectroscopy*, 09/2022.
+  * Master thesis (M.Sc. Mechatronics): *Finite Element Analysis of Impedance Sensors for Tissue Differentiation*, 09/2021.
+  * Bachelor thesis (B.Sc. Biomedical Engineering): *Compensation of disturbance effects in minimally invasive impedance sensors*, 09/2021.
+  * Bachelor thesis (B.Sc. Biomedical Engineering): *Multimodal tissue modelling for model-based tissue differentiation using electrical and mechanical properties*, 03/2021.
+  * Bachelor thesis (B.Sc. Biomedical Engineering): *Electrical tissue modelling in the context of tissue differentiation using electrical impedance spectroscopy*, 03/2021.
+  * Master thesis (M.Sc. Biomedical Engineering): *Modeling and computer-aided simulation of the electrical behavior of urinary bladder tissue*, 03/2021.
+
+  
 
 
 
