@@ -1,6 +1,7 @@
 ---
 title: Nonlinear Disturbance Observers for Robotic Continuum Manipulators
 layout: page
+keywords: [Carina Veil, Soft Robotics, Control, Robotics, Researcher]
 # description: Test
 permalink: /projects/festo-ndob/
 
