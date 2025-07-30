@@ -36,8 +36,9 @@ My current [projects](/projects/) include:
 ### More details
 
 #### Academic service
-* 2025-2026: Chair of the [IEEE Engineering Medicine and Biology Germany Chapter](https://www.ieee.de/chapterpage_emb/) [(👉more)](/_posts/2025-01-01-embs.md).
-* 2025: Communications Co-Chair of [IEEE NextCom by the Control System Society](https://sites.google.com/view/css-nextcom/home?authuser=0) [(👉more)](/_posts/2025-02-01-nextcom.md).
+* since 07/2025: Associate Editor with [IFAC Mechatronics](https://www.sciencedirect.com/journal/mechatronics).
+* since 01/2025: Chair of the [IEEE Engineering Medicine and Biology Germany Chapter](https://www.ieee.de/chapterpage_emb/) [(👉more)](/_posts/2025-01-01-embs.md).
+* since 01/2025: Communications Co-Chair of [IEEE NextCom by the Control System Society](https://sites.google.com/view/css-nextcom/home?authuser=0) [(👉more)](/_posts/2025-02-01-nextcom.md).
 * 2025: Observer in the assessment centers of the [Femtec](https://www.femtec.org/en/) network.
 * since 2023: Active member of IEEE, IEEE CSS (Control System Society), IEEE EMBS (Engineering Medicine and Biology), IEEE WIE (Women in Engineering).
 
