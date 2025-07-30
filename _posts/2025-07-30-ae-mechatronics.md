@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Member of NextCom by CSS for 2025"
-date: 2025-02-01
+title: "Associate Editor for IFAC Mechatronics"
+date: 2025-07-30
 ---
-I officially became the **Communications Co-Chair** of [NextCom](https://sites.google.com/view/css-nextcom/), a committee formed by the IEEE Control System Society (CSS) to support and guide students, early career researchers, and young professionals along their way to becoming the next generation of established control systems engineers and researchers.
+Full circle moment: I just became an Associate Editor for [Mechatronics](https://www.sciencedirect.com/journal/mechatronics) (Elsevier), a journal by the [International Federation of Automatic Control (IFAC)](https://www.ifac-control.org) focusing on mechatronics and robotics.
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/nextcom-by-css/) to stay up-to-date, and check out the *Meet the leaders* posts.
+This is extra special for me because it’s the journal where I published my very first paper "Nonlinear disturbance observers for robotic continuum manipulators" back in 2020, which also became my most-cited paper up to this day. (Moral of the story: start strong… and then spend the rest of your career wondering if you’ll ever top that first paper 🥲)
 
-![Carina Veil, NextCom, Control, IEEE, Volunteering](/assets/img/news/nextcom-meet-leaders.jpeg){:width="600"}
+👉 Here’s the [“legendary first paper”](https://www.sciencedirect.com/science/article/pii/S0957415821000246)
+
+Excited to contribute from the other side of the review process! 
