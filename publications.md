@@ -8,6 +8,7 @@ Publications organized by topic. Check out my <a href="https://scholar.google.de
 - [Robotics Publications](#robotics-publications)
 - [Control Theory Publications](#control-theory-publications)
 - [Biomedical Engineering Publications](#biomedical-engineering-publications)
+- [Misc](#misc)
 
 - [Invited Talks](#invited-talks)
 - [Conferences Attended](#conferences-attended)
@@ -97,7 +98,9 @@ J. Schüle, F. Krauß, **C. Veil**, S. Kunkel, P. Somers, C. Tarín, O. Sawodny.
 
 
 ## Misc
-Sometimes I write papers that don't have anything to do with my research :)
+Sometimes I write papers that don't have anything to do with robotics, control, or medicine :)
+- **Material Fingerprinting: A shortcut to material model discovery without solving optimization problems**
+M. Flaschel, D. Martonová, **C. Veil**, E. Kuhl. *submitted to Computer Methods in Applied Mechanics and Engineering*. [arXiv](https://arxiv.org/abs/2508.07831)
 - **From the Ground Up: IEEE NextCom’s Inaugural Year of Impact and Growth**  
 N. Ozay, T. Roy, **C. Veil**, B. Butler, A. Bizyaeva, P. Paré. *IEEE Control Systems Magazine*, vol. 45, no. 3, pp. 15-18, June 2025. [DOI](https://doi.org/10.1109/MCS.2025.3554945)
 
