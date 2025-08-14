@@ -14,10 +14,10 @@ redirect_from:
 <!--author-->
 
 My current [projects](/projects/) include:
-* [Learning-enhanced control of soft, bioinspired robots](/projects/trunk-project/): How to combine biomechanics, traditional model-based approaches, and AI to make robots move the way we want to?
-* Control of [population dynamics](/projects/popdyn/) represented by hyperbolic partial differential equations: How can we mathematically describe and stabilize systems of multiple populations that occur, for example, in epidemics, demography, and ecology?
-* Sensors and AI for [tumor detection](/projects/grk/): How can we measure altered physical tissue properties in tumor, combine this information with imaging data and use AI to help surgeons to make decisions?
-* [Material Fingerprinting](/projects/material-fingerprinting/): How to discover material models without solving optimization problems?
+* [Learning-enhanced control of soft, bioinspired robots](/projects/trunk-project/)
+* Control of [population dynamics](/projects/popdyn/) represented by hyperbolic partial differential equations.
+* [Multi-sensor tissue differentiation for tumor detection](/projects/grk/).
+* [Material Fingerprinting](/projects/material-fingerprinting/).
 
 ### Educational and academic milestones
 

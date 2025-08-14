@@ -22,3 +22,8 @@ In parallel, I work on **control-theoretic questions for hyperbolic partial diff
 Precise differentiation of pathological tissue during surgery is crucial in oncology. The current gold standard, histopathological analysis, involves delays due to tissue processing, impacting real-time decision-making. Intraoperative sensors measuring electrical, optical, or mechanical properties can help surgeons to make an informed decision.
 
 📌 **[Explore Project →](/projects/grk/)**
+
+## Material Fingerprinting
+To understand the physical behavior of materials and accurately simulate their mechanical behavior under complex shapes and loading conditions, it is essential to develop mathematical models that accurately describe the materials’ mechanics. This mechanical characterization of materials traditionally involves solving an optimization problem. With our new approach, *material fingerprinting*, we avoid such potentially non-convex optimization problems and present a new method for the rapid discovery of mechanical material models.
+
+📌 **[Explore Project →](/projects/material-fingerprinting/)**
