@@ -59,6 +59,10 @@ T. M. Wolff, **C. Veil**, J. W. Dietrich, M. A. Müller. *Frontiers in Endocrino
 **C. Veil**, S. Petillon, J. Hotz, A. Knöller, A. Zimmermann, O. Sawodny. *IEEE Sensors Journal*, 2021. [DOI](https://doi.org/10.1109/JSEN.2021.3108779)
 
 ### Peer-Reviewed Conference Papers
+- **Data-Driven Conductivity Mapping for Tissue Margin Estimation with a Multi-Electrode Sensor Array**
+Z. Lovasz, **C. Veil**, F. Krauß, M. Ege, O. Sawodny. *IEEE Sensors*, 2025.
+- **Optimized Sensor Placement and Fusion of Optical and Electrical Modalities for Tissue Classification**
+M. Ege, E. Grumann, F. Krauß, Z. Lovasz, A. Rüdinger, **C. Veil**, O. Sawodny & C. Tarín. *IEEE Sensors*, 2025.
 - **BlaVeS: A Novel Hand-Labeled Dataset for Improved Bladder Vessel Segmentation with Modified U-Net**  
 F. Krauß, N. Smati, M. Ege, Z. Lovasz, O. Sawodny, **C. Veil**. *47th Annual International Conference of the IEEE Engineering in Biology and Medicine Society*, 2025.
 - **Multiphysical Tumor Tissue Modeling for Improved Multimodal Sensor-Based Diagnostics**  
