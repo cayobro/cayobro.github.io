@@ -14,10 +14,10 @@ redirect_from:
 <!--author-->
 
 My current [projects](/projects/) include:
-* [Learning-enhanced control of soft, bioinspired robots](/projects/trunk-project/)
-* Control of [population dynamics](/projects/popdyn/) represented by hyperbolic partial differential equations.
+* [Control of trunk-inspired soft robots](/projects/trunk-project/)
+<!-- * Control of [population dynamics](/projects/popdyn/) represented by hyperbolic partial differential equations. -->
 * [Multi-sensor tissue differentiation for tumor detection](/projects/grk/).
-* [Material Fingerprinting](/projects/material-fingerprinting/).
+<!-- * [Material Fingerprinting](/projects/material-fingerprinting/). -->
 
 ### Educational and academic milestones
 
