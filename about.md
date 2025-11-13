@@ -60,7 +60,10 @@ My current [projects](/projects/) include:
 <!-- * 2025: Presenting in invited session on *Estimation and Control of Distributed Parameter Systems*  at the [American Control Conference (ACC)](https://acc2025.a2c2.org) [(👉more)](/_posts/2025-07-01-acc.md). -->
 
 
-#### Invited talks
+#### Talks
+<!-- * 2025: *Elephant Trunk-inspired soft robots*. TU Delft, [Peirlink Lab](). -->
+* 2025: *Intraoperative Multi-Sensor Tissue Differentiation in Oncology* and *Elephant Trunk-inspired soft robots*. KTH Stockholm, [Intelligent Heart Technology Lab](https://www.kth.se/profile/seraina).
+* 2025: *Elephant Trunk-inspired soft robots*. TU Delft, [Peirlink Lab](https://peirlincklab.com).
 * 2024: *Population Dynamics - How to model and control interaction-related phenomena*. University Medical Center Göttingen.
 * 2024: Plenary speaker at the *Female Leadership Development Panel* at the 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society.
 *	2024: *Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. Technical University Berlin, Institute of Chemical and Process Engineering.
