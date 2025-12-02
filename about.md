@@ -61,7 +61,8 @@ My current [projects](/projects/) include:
 
 
 #### Talks
-<!-- * 2025: *Elephant Trunk-inspired soft robots*. TU Delft, [Peirlink Lab](). -->
+* 2025: *Elephant Trunk-inspired soft robots*. *Fueling Minds* talk series at DTU Electro, Technical University of Denmark, hosted by Silvia Tolu at [NRT-Lab](https://www.linkedin.com/company/dtu-nrtlab/posts/?feedView=all).
+* 2025: *Elephant Trunk-inspired soft robots*. IT University of Copenhagen, hosted by Kasper Stoy.
 * 2025: *Intraoperative Multi-Sensor Tissue Differentiation in Oncology* and *Elephant Trunk-inspired soft robots*. KTH Stockholm, [Intelligent Heart Technology Lab](https://www.kth.se/profile/seraina).
 * 2025: *Elephant Trunk-inspired soft robots*. TU Delft, [Peirlink Lab](https://peirlincklab.com).
 * 2024: *Population Dynamics - How to model and control interaction-related phenomena*. University Medical Center Göttingen.
