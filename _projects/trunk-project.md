@@ -1,5 +1,5 @@
 ---
-title: Learning-Enhanced Control for Bioinspired Robots
+title: Path planning and control for soft robots
 layout: page
 # description: Test
 permalink: /projects/trunk-project/

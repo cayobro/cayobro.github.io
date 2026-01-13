@@ -27,7 +27,7 @@ With a modified **Volterra-like control Lyapunov function**,
 - Extending this to a more sophisticated, restrained controller we achieve regulation for the ODE model globally, with positive harvesting. 
 - For the full IPDE model, with the IDE dynamics acting as large disturbances, for both the simple and saturated feedback laws we provide explicit estimates of the regions of attraction.
 
-[📄 Key publication](https://arxiv.org/abs/2410.06823)
+[📄 Key publication](https://ieeexplore.ieee.org/abstract/document/11080060) (also on [arxiv](https://arxiv.org/abs/2410.06823))
 
 ## Predator-Predator Dynamics
 ![Predator-Prey Dynamics](/assets/img/research/PredatorPredator.png){:width="500"}
@@ -37,8 +37,8 @@ Using **backstepping**,
 - An estimate of the region of attraction of the asymptotically stabilized equilibrium of the full IPDE system is provided, under a positivity restriction on control.
 
 
-📄 As of June 2025, results have just been submitted to *automatica*, and we are waiting for a decision notification from CDC 2025.
+[📄 Key publication](https://arxiv.org/abs/2507.23013)
 
 ---
 
-_Last updated: June 2025_
+_Last updated: January 2026_

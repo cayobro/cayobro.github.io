@@ -40,9 +40,9 @@ There are several challenges when it comes to multimodal systems, such as limite
 Combining sensors from different physical domains increases prediction robustness and offers redundancy — but comes with challenges such as variable resolution, deformation, or differing acquisition rates.
 
 Key developments:
-- Cross-modal translation and feature alignment, aiming for knowledge transfer from a strong to a weak modality during training to enhance unimodal performance of the weak modality at inference ([📄 publication](https://doi.org/10.1109/SENSORS60989.2024.10784632)).
-- Entropy-based sensor placement and fusion strategies to combine pointwise impedance measurements with wide-field hyperspectral imaging (submitted to IEEE Sensors 2025)
-- Multi-physical tumor modeling for better understanding and model-based investigations (to be presented at IEEE EMBC 2025)
+- Cross-modal translation and feature alignment, aiming for knowledge transfer from a strong to a weak modality during training to enhance unimodal performance of the weak modality at inference ([📄 publication IEEE Sensors 2024](https://doi.org/10.1109/SENSORS60989.2024.10784632)).
+- Entropy-based sensor placement and fusion strategies to combine pointwise impedance measurements with wide-field hyperspectral imaging (accepted to IEEE Sensors 2025)
+- Multi-physical tumor modeling for better understanding and model-based investigations ([📄 publication IEEE EMBC 2025](https://ieeexplore.ieee.org/document/11254060))
 
 ---
 
@@ -54,8 +54,8 @@ Bladder surgery is constrained by limited visibility through endoscopes. Reliabl
 
 Key developments:
 - **Sparse feature detection and localization** in the deformable bladder environment ([📄 publication](https://doi.org/10.1109/SENSORS60989.2024.10785221))  
-- Improved datasets and segmentation algorithms for **blood vessel recognition** (to appear at *IEEE EMBC 2025*)
+- Improved datasets and segmentation algorithms for **blood vessel recognition** ([📄 publication IEEE EMBC 2025](https://ieeexplore.ieee.org/document/11253092))
 
 ---
 
-_Last updated: June 2025_
+_Last updated: January 2026_
