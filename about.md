@@ -45,7 +45,7 @@ My current [projects](/projects/) include:
 
 
 #### Recognitions
-<!-- * (Outlook) 2026-2028: [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/bewerben/foerderprogramme/feodor-lynen-forschungsstipendium) by the Alexander von Humboldt foundation to fund two years of research at Stanford University with Prof. Ellen Kuhl [(👉more)](/_posts/2025-08-13-humboldt.md). -->
+* 2025: Awarded a [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/bewerben/foerderprogramme/feodor-lynen-forschungsstipendium) by the Alexander von Humboldt foundation.
 * 2025: [Best Regional Professional Chapter Award](https://www.embs.org/membership/chapters/regional-chapter-awards/) for the IEEE EMBS Germany Chapter, where I am the chair.
 * 2024: Nomination for the [Bertha-Benz Price](https://www.daimler-benz-stiftung.de/cms/en/promote/bertha-benz-prizex/the-prize.html): Candidate of the University of Stuttgart for an outstanding dissertation in engineering.
 * 2023: [Featured Article](https://www.embs.org/tbme/articles/enhancing-tissue-impedance-measurement-through-modeling-of-fluid-flow-during-viscoelastic-relaxation/) in IEEE’s Transactions on Biomedical Engineering highlights.
@@ -71,10 +71,12 @@ My current [projects](/projects/) include:
 *	2023: *Impedance-Based Tumor Differentiation in the Urinary Bladder*. IEEE EMBS Germany Chapter – EMBC 2023 Recap.
 
 #### Reviews
-* 2025: ACS In Focus series.
+<!-- * 2025: ACS In Focus series.
 *	2025: [American Control Conference](https://acc2025.a2c2.org) (ACC).
 *	2024: Springer Nature Scientific Reports.
-*	2024: International Journal for Numerical Methods in Biomedical Engineering.
+*	2024: International Journal for Numerical Methods in Biomedical Engineering. -->
+* 2025: American Control Conference (ACC), IEEE Transactions on Mechatronics, ACS In Focus series, AUTOMED Symposium, 3rd International Conference on Integrated Systems in Medical Technologies (ISMT).
+* 2024: Springer Nature Scientific Reports, International Journal for Numerical Methods in Biomedical Engineering.
 
 #### Teaching and mentoring
 * PhD Co-Supervision (2023-2026) at University of Stuttgart:
