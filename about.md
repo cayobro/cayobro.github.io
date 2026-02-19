@@ -52,9 +52,10 @@ My current [projects](/projects/) include:
 * 2014-2017: Full [scholarship](https://www.student.uni-stuttgart.de/studiengang/Medizintechnik-B.Sc./?page=frderfonds) provided by Förderfonds Medizintechnik (financial aid and mentoring for the most promising students in the medical engineering study program).
 
 #### Involvement in conferences
+*	2026: Programm Committee ISMT 2026 (4th International Conference on Integrated Systems in Medical Technologies).
 * 2026: Programm Committee [AUTOMED](https://automed.rwth-aachen.de) + MedRob Symposium.
 <!-- * (Outlook) 2025: Presenting in invited session on *Estimation and Control of Distributed Parameter Systems* at the [64th IEEE Conference on Decision and Control](https://cdc2025.ieeecss.org). -->
-*	2025: Programm Committee ISMT 2026 (3rd International Conference on Integrated Systems in Medical Technologies).
+*	2025: Programm Committee ISMT 2025 (3rd International Conference on Integrated Systems in Medical Technologies).
 * 2025: Session chair at the [47th Annual International Conference of the IEEE EMBS (EMBC)](https://embc.embs.org/2025/) for *Prosthetics and Exoskeletons design* and *Cancer diagnosis and prognosis*.
 <!-- * 2025: Attending [47th Annual International Conference of the IEEE EMBS (EMBC)](https://embc.embs.org/2025/) with three last-author papers [(👉more)](/_posts/2025-07-14-embc.md). -->
 <!-- * 2025: Presenting in invited session on *Estimation and Control of Distributed Parameter Systems*  at the [American Control Conference (ACC)](https://acc2025.a2c2.org) [(👉more)](/_posts/2025-07-01-acc.md). -->
