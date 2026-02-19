@@ -54,7 +54,8 @@ Bladder surgery is constrained by limited visibility through endoscopes. Reliabl
 
 Key developments:
 - **Sparse feature detection and localization** in the deformable bladder environment ([📄 publication](https://doi.org/10.1109/SENSORS60989.2024.10785221))  
-- Improved datasets and segmentation algorithms for **blood vessel recognition** ([📄 publication IEEE EMBC 2025](https://ieeexplore.ieee.org/document/11253092))
+- Improved datasets and algorithms for **blood vessel segmentation** in the bladder based on endoscopic videos ([📄 publication IEEE EMBC 2025](https://ieeexplore.ieee.org/document/11253092))
+- A hybrid attention-convolution framework to segment blood vessels in the bladder with the goal to create a unique, patient-specific vascular fingerprint ([📃 arXiv](https://arxiv.org/abs/2602.09949))
 
 ---
 
