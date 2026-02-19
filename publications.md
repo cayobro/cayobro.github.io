@@ -49,6 +49,8 @@ D. Müller, **C. Veil**, O. Sawodny. *21st IFAC World Congress*, Berlin, 2020.
 
 ## Biomedical Engineering Publications
 ### Journals
+- **Bladder Vessel Segmentation using a Hybrid Attention-Convolution Framework**
+F. Krauß, M. Ege, Z. Lovasz, A. Bartz-Schmidt, I. Tsaur, O. Sawodny, **C.Veil**. Submitted to *IEEE Journal of Biomedical and Health Informatics*, 2026. [arXiv](https://arxiv.org/abs/2602.09949)
 - **Electrical Impedance-Based Tissue Classification for Bladder Tumor Differentiation**  
 **C. Veil**, F. Krauß, B. Amend, F. Fend, O. Sawodny. *Scientific Reports*, 2024. [DOI](https://doi.org/10.1038/s41598-024-84844-9)
 - **Cystoscopic Depth Estimation Using Gated Adversarial Domain Adaptation**  
