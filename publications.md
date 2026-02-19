@@ -112,8 +112,11 @@ M. Flaschel, D. Martonová, **C. Veil**, E. Kuhl. *submitted to Computer Methods
 - **From the Ground Up: IEEE NextCom’s Inaugural Year of Impact and Growth**  
 N. Ozay, T. Roy, **C. Veil**, B. Butler, A. Bizyaeva, P. Paré. *IEEE Control Systems Magazine*, vol. 45, no. 3, pp. 15-18, June 2025. [DOI](https://doi.org/10.1109/MCS.2025.3554945)
 
-## Invited Talks
-
+## (Invited) Talks
+* *Elephant-Trunk-Inspired Soft Robots*. IT University of Copenhagen (Kasper Stoy), 21.11.2025
+* *Elephant-Trunk-Inspired Soft Robots*. . DTU Copenhagen, “Fueling Minds” Talk Series at NRT Lab (Silvia Tolu), 19.11.2025.
+*	*Intraoperative Multi-Sensor Tissue Differentiation in Oncology* KTH Stockholm, Intelligent Heart Technology Lab, 10.11.2025.
+* *Elephant-Trunk-Inspired Soft Robots*. TU Delft, Peirlinck Lab, 30.10.2025.
 * *Population Dynamics - How to model and control interaction-related phenomena*. University Medical Center Göttingen, 09.12.2024.
 * Plenary speaker at the *Female Leadership Development Panel* at the 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society, 2024.
 *	*Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. Technical University Berlin, Institute of Chemical and Process Engineering, 01.03.2024.
@@ -121,8 +124,8 @@ N. Ozay, T. Roy, **C. Veil**, B. Butler, A. Bizyaeva, P. Paré. *IEEE Control Sy
 
 
 ## Conferences Attended
-- IEEE Engineering in Medicine and Biology Conference (EMBC): 2021, 2022, 2023, 2024, 2025
-- IEEE Conference on Decision and Control (CDC): 2022, 2024, (2025)
+- IEEE Engineering in Medicine and Biology Conference (EMBC): 2021, 2022, 2023, 2024, 2025, (2026)
+- IEEE Conference on Decision and Control (CDC): 2022, 2024, 2025
 - IEEE American Control Conference (ACC): 2025
 - IFAC Vienna International Conference on Mathematical Modelling (MATHMOD): 2022  
 - IEEE Conference on Systems, Man, and Cybernetics (SMC): 2023, 2024
