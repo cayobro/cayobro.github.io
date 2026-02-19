@@ -16,6 +16,7 @@ Publications organized by topic. Check out my <a href="https://scholar.google.de
 ## Robotics Publications
 ### Journal Papers
 - **Shape-Space Graphs: Fast and Collision-Free Path Planning for Soft Robots**
+
 **C. Veil**, M. Flaschel, E. Kuhl, 2025. [arXiv](https://arxiv.org/abs/2510.03547)
 - **Nonlinear Disturbance Observers for Robotic Continuum Manipulators**  
 **C. Veil**, D. Müller, O. Sawodny. *Mechatronics*, 78, 102518, 2021. [DOI](https://doi.org/10.1016/j.mechatronics.2021.102518)
