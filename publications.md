@@ -109,18 +109,18 @@ J. Schüle, F. Krauß, **C. Veil**, S. Kunkel, P. Somers, C. Tarín, O. Sawodny.
 ## Misc
 Sometimes I write papers that don't have anything to do with robotics, control, or medicine :)
 - **Material Fingerprinting: A shortcut to material model discovery without solving optimization problems**
-M. Flaschel, D. Martonová, **C. Veil**, E. Kuhl. *submitted to Computer Methods in Applied Mechanics and Engineering*. [arXiv](https://arxiv.org/abs/2508.07831)
+M. Flaschel, D. Martonová, **C. Veil**, E. Kuhl. *Computer Methods in Applied Mechanics and Engineering*. [DOI](https://doi.org/10.1016/j.cma.2025.118573)
 - **From the Ground Up: IEEE NextCom’s Inaugural Year of Impact and Growth**  
 N. Ozay, T. Roy, **C. Veil**, B. Butler, A. Bizyaeva, P. Paré. *IEEE Control Systems Magazine*, vol. 45, no. 3, pp. 15-18, June 2025. [DOI](https://doi.org/10.1109/MCS.2025.3554945)
 
 ## (Invited) Talks
 * *Elephant-Trunk-Inspired Soft Robots*. IT University of Copenhagen (Kasper Stoy), 21.11.2025
-* *Elephant-Trunk-Inspired Soft Robots*. . DTU Copenhagen, “Fueling Minds” Talk Series at NRT Lab (Silvia Tolu), 19.11.2025.
-*	*Intraoperative Multi-Sensor Tissue Differentiation in Oncology* KTH Stockholm, Intelligent Heart Technology Lab, 10.11.2025.
-* *Elephant-Trunk-Inspired Soft Robots*. TU Delft, Peirlinck Lab, 30.10.2025.
-* *Population Dynamics - How to model and control interaction-related phenomena*. University Medical Center Göttingen, 09.12.2024.
+* *Elephant-Trunk-Inspired Soft Robots*. DTU Copenhagen, “Fueling Minds” Talk Series at NRT Lab (Silvia Tolu), 19.11.2025.
+*	*Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. KTH Stockholm, Intelligent Heart Technology Lab (Seraina Dual), 10.11.2025.
+* *Elephant-Trunk-Inspired Soft Robots*. TU Delft (Mathias Peirlinck), 30.10.2025.
+* *Population Dynamics - How to model and control interaction-related phenomena*. University Medical Center Göttingen (Nicolai Spicher), 09.12.2024.
 * Plenary speaker at the *Female Leadership Development Panel* at the 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society, 2024.
-*	*Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. Technical University Berlin, Institute of Chemical and Process Engineering, 01.03.2024.
+*	*Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. Technical University Berlin, Institute of Chemical and Process Engineering (Steffi Knorn), 01.03.2024.
 *	*Impedance-Based Tumor Differentiation in the Urinary Bladder*. IEEE EMBS Germany Chapter – EMBC 2023 Recap, 04.09.2023.
 
 
