@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 
 ---
-Publications organized by topic. Check out my <a href="https://scholar.google.de/citations?hl=de&user=KZgVPNMAAAAJ&view_op=list_works&sortby=pubdate">GoogleScholar</a> for a chronological overview!
+Publications organized by topic. Check out my <a href="https://scholar.google.de/citations?hl=de&user=KZgVPNMAAAAJ&view_op=list_works">GoogleScholar</a> for a chronological overview!
 - [Robotics Publications](#robotics-publications)
 - [Control Theory Publications](#control-theory-publications)
 - [Biomedical Engineering Publications](#biomedical-engineering-publications)
