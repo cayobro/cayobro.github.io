@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[new preprint] Graph-based path planning for soft robots"
+title: "[preprint] Graph-based path planning for soft robots"
 date: 2025-10-03
 ---
 
