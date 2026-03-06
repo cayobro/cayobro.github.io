@@ -22,6 +22,10 @@ For soft robots in infinite-dimensional shape spaces, we encouter limits both in
 
 In the paper, we extend CLIK to infinite-dimensional shape spaces by composing an actuation-to-shape map with a shape-to-task map, deriving the differential end-to-end kinematics via an infinite-dimensional chain rule. Since this actuation-to-shape mapping is rarely available in closed form, we propose to learn it using differentiable neural operator networks -- et voilà, CLIK for soft robots and reasoning about entire shapes rather than just end-effectors.
 
+[📄 Preprint](https://arxiv.org/abs/2602.18655)
+
+[🖥️ GitHub](https://github.com/cayobro/soft-robot-CLIK-via-neural-operators)
+
 ### Shape-Space Graphs for Fast and Collision-Free Path Planning
 
 ![Shape-Space Graphs](/assets/img/research/ShapeSpaceAbstract.png){:width="700"}
@@ -30,6 +34,7 @@ Here, I present a graph-based path planning tool for an elephant-trunk-inspired 
 The paths are directly planned in workspace, or more appropriately, *shape space* (S-space). Our method integrates a biomechanically exact forward kinematics model of a soft robotic arm with a precomputed shape library and a k-nearest neighbor graph that guarantees that all nodes correspond to physically valid shapes, enabling multi- objective planning at high speed. By using signed distance fields (SDFs), clearance is precomputed and infeasible nodes are pruned before search, avoiding expensive collision checks during runtime. This combination of exact modeling and offline graph construction allows us to eliminate dependence on inverse kinematics during online planning and generate efficient and realistic paths.
 
 [📄 Preprint](https://arxiv.org/abs/2510.03547)
+
 [🖥️ GitHub](https://github.com/cayobro/shape-space-graphs)
 
 ---
