@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[new preprint] Bladder vessel segmentation using a hybrid attention-convolution framework"
+title: "[preprint] Bladder vessel segmentation using a hybrid attention-convolution framework"
 date: 2026-02-12
 ---
 
