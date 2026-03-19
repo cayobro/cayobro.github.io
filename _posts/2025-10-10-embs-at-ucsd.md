@@ -12,5 +12,5 @@ If you are a student at UCSD, check out their student chapter and the upcoming E
 
 A big thank you to Isgard Hueck and Gert Cauwenberghs for their involvement and effort.
 
-![EMBS-UCSD](/assets/img/news/embs-ucsd-1.jpg){:width="600"}
-![EMBS-UCSD](/assets/img/news/embs-ucsd-2.jpg){:width="600"}
+![EMBS-UCSD](/assets/img/news/embs-ucsd-1.jpeg){:width="600"}
+![EMBS-UCSD](/assets/img/news/embs-ucsd-2.jpeg){:width="600"}
