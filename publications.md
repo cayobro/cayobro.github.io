@@ -18,7 +18,7 @@ Publications organized by topic. Check out my <a href="https://scholar.google.de
 - **Closed-Loop Inverse Kinematics for Soft Robots via Neural Operators**    
 **C. Veil**, M. Flaschel, E. Kuhl, Cosimo Della Santina, 2026. [arXiv](https://arxiv.org/abs/2602.18655)  
 - **Shape-Space Graphs: Fast and Collision-Free Path Planning for Soft Robots**  
-**C. Veil**, M. Flaschel, E. Kuhl, 2025. [arXiv](https://arxiv.org/abs/2510.03547)
+**C. Veil**, M. Flaschel, E. Kuhl, *IEEE Robotics and Automation Letters*, 2026. [DOI](https://doi.org/10.1109/LRA.2026.3674004)
 - **Nonlinear Disturbance Observers for Robotic Continuum Manipulators**  
 **C. Veil**, D. Müller, O. Sawodny. *Mechatronics*, 78, 102518, 2021. [DOI](https://doi.org/10.1016/j.mechatronics.2021.102518)
 - **One-Shot Kinesthetic Programming by Demonstration for Soft Collaborative Robots**  
@@ -116,7 +116,8 @@ M. Flaschel, D. Martonová, **C. Veil**, E. Kuhl. *Computer Methods in Applied M
 N. Ozay, T. Roy, **C. Veil**, B. Butler, A. Bizyaeva, P. Paré. *IEEE Control Systems Magazine*, vol. 45, no. 3, pp. 15-18, June 2025. [DOI](https://doi.org/10.1109/MCS.2025.3554945)
 
 ## (Invited) Talks
-* *Elephant-Trunk-Inspired Soft Robots*. IT University of Copenhagen (Kasper Stoy), 21.11.2025
+* Spotlight presentation at *Automed x MedRob Symposium*. Leibniz University Hanover (Thomas Seel), 18.03.2026.  
+* *Elephant-Trunk-Inspired Soft Robots*. IT University of Copenhagen (Kasper Stoy), 21.11.2025.
 * *Elephant-Trunk-Inspired Soft Robots*. DTU Copenhagen, “Fueling Minds” Talk Series at NRT Lab (Silvia Tolu), 19.11.2025.
 *	*Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. KTH Stockholm, Intelligent Heart Technology Lab (Seraina Dual), 10.11.2025.
 * *Elephant-Trunk-Inspired Soft Robots*. TU Delft (Mathias Peirlinck), 30.10.2025.
