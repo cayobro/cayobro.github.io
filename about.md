@@ -20,10 +20,11 @@ My current [projects](/projects/) include:
 <!-- * [Material Fingerprinting](/projects/material-fingerprinting/). -->
 
 ### Educational and academic milestones
+<!-- | since 04/2026  | KTH Stockholm               | Postdoc in Soft Robotics and Control                                   | -->
+
 
 | Year        | University              | Position                                          |
 |-------------|--------------------------------------|-------------------------------------------------------------|
-<!-- | since 04/2026  | KTH Stockholm               | Postdoc in Soft Robotics and Control                                   | -->
 | 2025-2026  | Stanford University                  | Postdoc in Soft Robotics and Control                                    |
 | 2023–2025   | University of Stuttgart              | Postdoc in Control Theory and Research Group Leader in Biomedical Engineering |
 | 2024        | UC San Diego                         | Visiting Researcher with [Miroslav Krstić](https://flyingv.ucsd.edu) [(GoogleScholar)](https://scholar.google.com/citations?user=V6MAuuoAAAAJ&hl=en)                 |
@@ -117,7 +118,7 @@ My current [projects](/projects/) include:
 * 2025: Spotlight Interview by the IEEE RAS Technical Committee “Robot Control” [(👉more)](/_posts/2025-05-22-featured-ieee-ras.md).
 * 2024: Judge in the assessment center of the Femtec Scholarship for women in STEM to determine the next cohort of scholarship holders at the University of Stuttgart.
 * 2024: Visiting my old high school (Friedrich-Schiller Gymnasium, Marbach am Neckar) to advertise the study program “Engineering Cybernetics” at the University of Stuttgart.
-* 2024: Plenary speaker at the Female Leadership Development Panel at the 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society (👉more)](/_posts/2024-07-15-embc.md).
+* 2024: Plenary speaker at the Female Leadership Development Panel at the 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society [(👉more)](/_posts/2024-07-15-embc.md).
 * 2023: Face of the study program “Engineering Cybernetics”, along with Festo’s Bionic Soft Arm [(👉more)](/_posts/2023-01-01-cybernetics.md).
 * 2022: Featured Researcher – Women in Research Calendar 2022 [(👉more)](/_posts/2022-01-01-calendar.md).
 
