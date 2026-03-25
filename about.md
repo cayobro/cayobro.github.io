@@ -23,7 +23,8 @@ My current [projects](/projects/) include:
 
 | Year        | University              | Position                                          |
 |-------------|--------------------------------------|-------------------------------------------------------------|
-| Since 2025  | Stanford University                  | Postdoc in Soft Robotics                                    |
+<!-- | since 04/2026  | KTH Stockholm               | Postdoc in Soft Robotics and Control                                   | -->
+| 2025-2026  | Stanford University                  | Postdoc in Soft Robotics and Control                                    |
 | 2023–2025   | University of Stuttgart              | Postdoc in Control Theory and Research Group Leader in Biomedical Engineering |
 | 2024        | UC San Diego                         | Visiting Researcher with [Miroslav Krstić](https://flyingv.ucsd.edu) [(GoogleScholar)](https://scholar.google.com/citations?user=V6MAuuoAAAAJ&hl=en)                 |
 | 2020–2023   | University of Stuttgart              | Ph.D. (Dr.-Ing.) in Biomedical Engineering                  |
@@ -35,6 +36,14 @@ My current [projects](/projects/) include:
 
 
 ### More details
+- [Academic service](#academic-service)
+- [Recognitions](#recognitions)
+- [Involvement in conferences](#involvement-in-conferences)
+- [Talks](#talks)
+- [Reviews](#reviews)
+- [Teaching and mentoring](#teaching-and-mentoring)
+- [Outreach](#outreach)
+
 
 #### Academic service
 * since 07/2025: Associate Editor with [IFAC Mechatronics](https://www.sciencedirect.com/journal/mechatronics).
@@ -62,14 +71,16 @@ My current [projects](/projects/) include:
 
 
 #### Talks
-* 2025: *Elephant Trunk-inspired soft robots*. *Fueling Minds* talk series at DTU Electro, Technical University of Denmark, hosted by Silvia Tolu at [NRT-Lab](https://www.linkedin.com/company/dtu-nrtlab/posts/?feedView=all).
-* 2025: *Elephant Trunk-inspired soft robots*. IT University of Copenhagen, hosted by Kasper Stoy.
-* 2025: *Intraoperative Multi-Sensor Tissue Differentiation in Oncology* and *Elephant Trunk-inspired soft robots*. KTH Stockholm, [Intelligent Heart Technology Lab](https://www.kth.se/profile/seraina).
-* 2025: *Elephant Trunk-inspired soft robots*. TU Delft, [Peirlink Lab](https://peirlincklab.com).
-* 2024: *Population Dynamics - How to model and control interaction-related phenomena*. University Medical Center Göttingen.
+* 2026: Speaker for the “Who-is-who Spotlight Talks” at [AUTOMED x MedRob Symposium](https://www.automed.science), Hanover, Germany, as a “Rising star” in the field, hosted by Thomas Seel, 18.03.2026.
+* 2025: *Elephant Trunk-inspired soft robots*. IT University of Copenhagen, hosted by Kasper Stoy, 21.11.2025.
+* 2025: *Elephant Trunk-inspired soft robots*. *Fueling Minds* talk series at DTU Electro, Technical University of Denmark, hosted by Silvia Tolu at [NRT-Lab](https://www.linkedin.com/company/dtu-nrtlab/posts/?feedView=all), 19.11.2025.
+* 2025: *Intraoperative Multi-Sensor Tissue Differentiation in Oncology* and *Elephant Trunk-inspired soft robots*. KTH Stockholm, [Intelligent Heart Technology Lab](https://www.kth.se/profile/seraina), hosted by Seraina Dual, 10.11.2025.
+* 2025: *Elephant Trunk-inspired soft robots*. TU Delft, [Peirlink Lab](https://peirlincklab.com), hosted by Mathias Peirlinck, 30.10.2025.
+* 2024: *Population Dynamics - How to model and control interaction-related phenomena*. University Medical Center Göttingen, hosted by Nicolai Spicher, 09.12.2024.
 * 2024: Plenary speaker at the *Female Leadership Development Panel* at the 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society.
-*	2024: *Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. Technical University Berlin, Institute of Chemical and Process Engineering.
-*	2023: *Impedance-Based Tumor Differentiation in the Urinary Bladder*. IEEE EMBS Germany Chapter – EMBC 2023 Recap.
+*	2024: *Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. Technical University Berlin, Institute of Chemical and Process Engineering, hosted by Steffi Knorn, 01.03.2024.
+*	2023: *Impedance-Based Tumor Differentiation in the Urinary Bladder*. IEEE EMBS Germany Chapter – EMBC 2023 Recap, hosted by Nicolai Spicher, 04.09.2023.
+
 
 #### Reviews
 <!-- * 2025: ACS In Focus series.
@@ -101,6 +112,14 @@ My current [projects](/projects/) include:
   * Master thesis (M.Sc. Biomedical Engineering): *Modeling and computer-aided simulation of the electrical behavior of urinary bladder tissue*, 03/2021.
 
   
+#### Outreach
+* 2025: Speaker at “EMBS KickOff 2025!”, an event by the newly established EMBS student chapter at University of California, San Diego. I shared my experiences on how to get involved with EMBS and all the perks of volunteering [(👉more)](/_posts/2025-10-10-embs-at-ucsd.md).
+* 2025: Spotlight Interview by the IEEE RAS Technical Committee “Robot Control” [(👉more)](/_posts/2025-05-22-featured-ieee-ras.md).
+* 2024: Judge in the assessment center of the Femtec Scholarship for women in STEM to determine the next cohort of scholarship holders at the University of Stuttgart.
+* 2024: Visiting my old high school (Friedrich-Schiller Gymnasium, Marbach am Neckar) to advertise the study program “Engineering Cybernetics” at the University of Stuttgart.
+* 2024: Plenary speaker at the Female Leadership Development Panel at the 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society (👉more)](/_posts/2024-07-15-embc.md).
+* 2023: Face of the study program “Engineering Cybernetics”, along with Festo’s Bionic Soft Arm [(👉more)](/_posts/2023-01-01-cybernetics.md).
+* 2022: Featured Researcher – Women in Research Calendar 2022 [(👉more)](/_posts/2022-01-01-calendar.md).
 
 
 
@@ -136,3 +155,4 @@ My current [projects](/projects/) include:
 [rouge]: http://rouge.jneen.net
 [katex]: https://khan.github.io/KaTeX/
 [mathjax]: https://www.mathjax.org/
+

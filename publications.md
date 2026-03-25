@@ -10,7 +10,7 @@ Publications organized by topic. Check out my <a href="https://scholar.google.de
 - [Biomedical Engineering Publications](#biomedical-engineering-publications)
 - [Misc](#misc)
 
-- [Invited Talks](#invited-talks)
+<!-- - [Invited Talks](#invited-talks) -->
 - [Conferences Attended](#conferences-attended)
 
 ## Robotics Publications
@@ -117,7 +117,7 @@ M. Flaschel, D. Martonová, **C. Veil**, E. Kuhl. *Computer Methods in Applied M
 - **From the Ground Up: IEEE NextCom’s Inaugural Year of Impact and Growth**  
 N. Ozay, T. Roy, **C. Veil**, B. Butler, A. Bizyaeva, P. Paré. *IEEE Control Systems Magazine*, vol. 45, no. 3, pp. 15-18, June 2025. [DOI](https://doi.org/10.1109/MCS.2025.3554945)
 
-## (Invited) Talks
+<!-- ## (Invited) Talks
 * Spotlight presentation at *Automed x MedRob Symposium*. Leibniz University Hanover (Thomas Seel), 18.03.2026.  
 * *Elephant-Trunk-Inspired Soft Robots*. IT University of Copenhagen (Kasper Stoy), 21.11.2025.
 * *Elephant-Trunk-Inspired Soft Robots*. DTU Copenhagen, “Fueling Minds” Talk Series at NRT Lab (Silvia Tolu), 19.11.2025.
@@ -126,7 +126,7 @@ N. Ozay, T. Roy, **C. Veil**, B. Butler, A. Bizyaeva, P. Paré. *IEEE Control Sy
 * *Population Dynamics - How to model and control interaction-related phenomena*. University Medical Center Göttingen (Nicolai Spicher), 09.12.2024.
 * Plenary speaker at the *Female Leadership Development Panel* at the 46th Annual International Conference of the IEEE Engineering in Biology and Medicine Society, 2024.
 *	*Intraoperative Multi-Sensor Tissue Differentiation in Oncology*. Technical University Berlin, Institute of Chemical and Process Engineering (Steffi Knorn), 01.03.2024.
-*	*Impedance-Based Tumor Differentiation in the Urinary Bladder*. IEEE EMBS Germany Chapter – EMBC 2023 Recap, 04.09.2023.
+*	*Impedance-Based Tumor Differentiation in the Urinary Bladder*. IEEE EMBS Germany Chapter – EMBC 2023 Recap, 04.09.2023. -->
 
 
 ## Conferences Attended
