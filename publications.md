@@ -4,7 +4,14 @@ title: Publications
 permalink: /publications/
 
 ---
-Publications organized by topic. Check out my <a href="https://scholar.google.de/citations?hl=de&user=KZgVPNMAAAAJ&view_op=list_works">GoogleScholar</a> for a chronological overview!
+Publications organized by topic. Check out my <a href="https://scholar.google.de/citations?hl=de&user=KZgVPNMAAAAJ&view_op=list_works">GoogleScholar</a> for a chronological overview!  
+My personal highlights are 
+CLIK for Soft Robots via Neural Operators [(Preprint)]((https://arxiv.org/abs/2602.18655)) | 
+Disturbance observers for Soft Robots [(IFAC Mechatronics)](https://doi.org/10.1016/j.mechatronics.2021.102518) |
+PDE control [(IEEE TAC)](https://doi.org/10.1109/TAC.2025.3589108) |
+Multiphysical tissue model [(IEEE TBME)](https://doi.org/10.1109/TBME.2022.3199468)
+
+
 - [Robotics Publications](#robotics-publications)
 - [Control Theory Publications](#control-theory-publications)
 - [Biomedical Engineering Publications](#biomedical-engineering-publications)
