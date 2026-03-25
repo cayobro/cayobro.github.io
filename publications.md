@@ -18,7 +18,9 @@ Publications organized by topic. Check out my <a href="https://scholar.google.de
 - **Closed-Loop Inverse Kinematics for Soft Robots via Neural Operators**    
 **C. Veil**, M. Flaschel, E. Kuhl, Cosimo Della Santina, 2026. [arXiv](https://arxiv.org/abs/2602.18655)  
 - **Shape-Space Graphs: Fast and Collision-Free Path Planning for Soft Robots**  
-**C. Veil**, M. Flaschel, E. Kuhl, *IEEE Robotics and Automation Letters*, 2026. [DOI](https://doi.org/10.1109/LRA.2026.3674004)
+**C. Veil**, M. Flaschel, E. Kuhl, *IEEE Robotics and Automation Letters*, 2026. [DOI](https://doi.org/10.1109/LRA.2026.3674004)  
+- **Soft Everting Robots for Medical Applications: A Review**  
+J. Dinkel, D. Weinmann, P. Pott, **C. Veil**, M. Schäfer, 2025. [engRvix](https://doi.org/10.31224/6684)  
 - **Nonlinear Disturbance Observers for Robotic Continuum Manipulators**  
 **C. Veil**, D. Müller, O. Sawodny. *Mechatronics*, 78, 102518, 2021. [DOI](https://doi.org/10.1016/j.mechatronics.2021.102518)
 - **One-Shot Kinesthetic Programming by Demonstration for Soft Collaborative Robots**  
