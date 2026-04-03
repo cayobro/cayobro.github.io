@@ -25,6 +25,7 @@ My current [projects](/projects/) include:
 
 | Year        | University              | Position                                          |
 |-------------|--------------------------------------|-------------------------------------------------------------|
+| since 2026  | KTH Royal Institute of Technology  | Postdoc in Control for Cardiovascular Health                               |
 | 2025-2026  | Stanford University                  | Postdoc in Soft Robotics and Control                                    |
 | 2023–2025   | University of Stuttgart              | Postdoc in Control Theory and Research Group Leader in Biomedical Engineering |
 | 2024        | UC San Diego                         | Visiting Researcher with [Miroslav Krstić](https://flyingv.ucsd.edu) [(GoogleScholar)](https://scholar.google.com/citations?user=V6MAuuoAAAAJ&hl=en)                 |
