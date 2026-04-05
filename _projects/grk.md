@@ -7,7 +7,7 @@ permalink: /projects/grk/
 
 ---
 
-*This research is related to my time as a PhD student and Postdoc at University of Stuttgart with Oliver Sawodny in the graduate school [GRK2543](https://www.grk2543.uni-stuttgart.de/en/)*
+*This research is related to my time as a PhD student and Postdoc at University of Stuttgart with Oliver Sawodny in the graduate school [GRK2543](https://www.grk2543.uni-stuttgart.de/en/), but still spans to this day.*
 
 ---
 
