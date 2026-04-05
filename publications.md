@@ -23,7 +23,7 @@ Multiphysical tissue model [(IEEE TBME)](https://doi.org/10.1109/TBME.2022.31994
 ## Robotics Publications
 ### Journal Papers
 - **Closed-Loop Inverse Kinematics for Soft Robots via Neural Operators**    
-**C. Veil**, M. Flaschel, E. Kuhl, Cosimo Della Santina, 2026. [arXiv](https://arxiv.org/abs/2602.18655)  
+**C. Veil**, M. Flaschel, E. Kuhl, Cosimo Della Santina, 2026. [arXiv](https://arxiv.org/abs/2602.18655), [💡Info](/news/2026-03-05-CLIK-preprint) 
 - **Shape-Space Graphs: Fast and Collision-Free Path Planning for Soft Robots**  
 **C. Veil**, M. Flaschel, E. Kuhl, *IEEE Robotics and Automation Letters*, 2026. [DOI](https://doi.org/10.1109/LRA.2026.3674004)  
 - **Soft Everting Robots for Medical Applications: A Review**  
