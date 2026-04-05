@@ -12,9 +12,9 @@ PDE control [(IEEE TAC)](https://doi.org/10.1109/TAC.2025.3589108) |
 Multiphysical tissue model [(IEEE TBME)](https://doi.org/10.1109/TBME.2022.3199468)
 
 
-- [Robotics Publications](#robotics-publications)
-- [Control Theory Publications](#control-theory-publications)
-- [Biomedical Engineering Publications](#biomedical-engineering-publications)
+- [Robotics Publications](#robotics-publications) 🤖
+- [Control Theory Publications](#control-theory-publications) 🎛️
+- [Biomedical Engineering Publications](#biomedical-engineering-publications) 🫀
 - [Misc](#misc)
 
 <!-- - [Invited Talks](#invited-talks) -->
@@ -42,6 +42,8 @@ D. Müller, **C. Veil**, O. Sawodny. *21st IFAC World Congress*, Berlin, 2020.
 
 ## Control Theory Publications
 ### Journal Papers 
+- **Lotka-Sharpe Neural Operators for Control of Population PDEs**  
+  M. Krstić, I. Karafyllis, L. Bhan, **C. Veil**. “ ”. Submitted to *IEEE Transactions on Automatic Control*, 2026.  
 - **Stabilization of Age-Structured Competing Populations**  
   **C. Veil**, M. Krstić, P. McNamee, O. Sawodny. Submitted to *IFAC Automatica*, 2025. [arXiv](https://arxiv.org/abs/2507.23013)
 - **Stabilization of Predator-Prey Age-Structured Hyperbolic PDE when Harvesting Both Species is Inevitable**  
@@ -49,10 +51,12 @@ D. Müller, **C. Veil**, O. Sawodny. *21st IFAC World Congress*, Berlin, 2020.
 - **Model-Based Feedforward Control of an Intra- and Interspecific Competitive Population System**  
   A.-C. Kurth, **C. Veil**, O. Sawodny. *IEEE Control Systems Letters*, 6, 3397–3402, 2022. [DOI](https://doi.org/10.1109/LCSYS.2022.3183894)
 ### Peer-Reviewed Conference Papers
+- **Lotka-Sharpe Neural Operators for Control of Population PDEs**  
+  M. Krstić, I. Karafyllis, L. Bhan, **C. Veil**. “ ”. Submitted to *IEEE Conference on Decision and Control (CDC)*, 2026. 
 - **Stabilization of Age-Structured Competition (Predator-Predator) Population Dynamics**  
-  **C. Veil**, P. McNamee, M. Krstić, O. Sawodny. Accepted to *IEEE Conference on Decision and Control (CDC)*, 2025.
+  **C. Veil**, P. McNamee, M. Krstić, O. Sawodny. *IEEE Conference on Decision and Control (CDC)*, 2025.
 - **Tracking Control for Competing Multi-Species Population Dynamics governed by Integro-PDEs**  
-  **C. Veil**, B. Blagojevic, M. Hammami, O.Sawodny. Accepted to *The 5th Modeling, Estimation and Control Conference (MECC)*, 2025.
+  **C. Veil**, B. Blagojevic, M. Hammami, O.Sawodny. *The 5th Modeling, Estimation and Control Conference (MECC)*, 2025.
 - **Stabilization of Predator-Prey Age-Structured Hyperbolic PDE when Harvesting both Species is Inevitable**  
   **C. Veil**, M. Krstić, I. Karafyllis, M. Diagne, O. Sawodny. *IEEE American Control Conference*, 2025.
 - **Steady-State Analysis of a Competitive Age-Structured Population System with Two Inputs**  
