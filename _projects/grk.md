@@ -7,8 +7,10 @@ permalink: /projects/grk/
 
 ---
 
-- Funding: German Research Foundation, project ID 40947457.
-- PIs: Oliver Sawodny (University of Stuttgart), Arnulf Stenzl (University Hospital Tübingen)
+*This research is related to my time as a PhD student and Postdoc at University of Stuttgart with Oliver Sawodny in the graduate school [GRK2543](https://www.grk2543.uni-stuttgart.de/en/)*
+
+---
+
 > 🔗 **Related Publications**  
 > See [Biomedical Engineering Publications](/publications/#biomedical-engineering-publications)
 

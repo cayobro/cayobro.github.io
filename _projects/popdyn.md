@@ -7,10 +7,9 @@ permalink: /projects/popdyn/
 
 ---
 
-<!-- - Funding: partially funded by German Research Foundation, grant SA 847/22-2.
-- PIs and collaborators: Oliver Sawodny (University of Stuttgart), Miroslav Krstić (UC San Diego). -->
 *This research is related to my time as a Postdoc with Miroslav Krstić at University of California San Diego.*
-----
+
+---
 
 > 🔗 **Related Publications**  
 > See [Control Theory Publications](/publications/#control-theory-publications)

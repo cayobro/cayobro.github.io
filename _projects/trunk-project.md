@@ -5,6 +5,9 @@ layout: page
 permalink: /projects/trunk-project/
 
 ---
+*This research is related to my time as a Postdoc at Stanford University.*
+
+---
 
 > 🔗 **Related Publications**  
 > See [Robotics Publications](/publications/#robotics-publications)
