@@ -6,7 +6,10 @@ keywords: [Carina Veil, Soft Robotics, Control, Robotics, Researcher]
 permalink: /projects/festo-ndob/
 
 ---
-I worked with **[Festo's Bionic soft arm](https://www.festo.com/us/en/e/about-festo/research-and-development/bionic-learning-network/bionic-grippers-and-soft-robots-id_33288/)** as a graduate research assistant at University of Stuttgart (2019-2020).
+
+*I worked with **[Festo's Bionic soft arm](https://www.festo.com/us/en/e/about-festo/research-and-development/bionic-learning-network/bionic-grippers-and-soft-robots-id_33288/)** as a graduate research assistant at University of Stuttgart (2019-2020).*
+
+---
 
 > 🔗 **Related Publications**  
 > See [Robotics Publications](/publications/#robotics-publications)

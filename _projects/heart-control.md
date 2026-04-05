@@ -9,6 +9,10 @@ permalink: /projects/heart-control/
 <!-- > 🔗 **Related Publications**   -->
 <!-- > See [Robotics Publications](/publications/#robotics-publications) -->
 
+*This research is related to my time as a Postdoc with [Seraina Dual](https://www.dual-lab.com) at KTH.*
+
+---
+
 In this project, my research focuses on human-in-the-loop control for medical robotics in the context of cardiovascular technologies. The goal is to innovate control systems for optimized interaction of soft cardiovascular pumps and wearable biofeedback systems with the human body.
 
 I joined this project in April 2026, so stay tuned :)
