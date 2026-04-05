@@ -23,9 +23,9 @@ Multiphysical tissue model [(IEEE TBME)](https://doi.org/10.1109/TBME.2022.31994
 ## Robotics Publications
 ### Journal Papers
 - **Closed-Loop Inverse Kinematics for Soft Robots via Neural Operators**    
-**C. Veil**, M. Flaschel, E. Kuhl, Cosimo Della Santina, 2026. [arXiv](https://arxiv.org/abs/2602.18655), [💡Info](/posts/2026-03-05-CLIK-preprint) 
+**C. Veil**, M. Flaschel, E. Kuhl, Cosimo Della Santina, 2026. [arXiv](https://arxiv.org/abs/2602.18655), [💡Info](/_posts/2026-03-05-CLIK-preprint.md)  
 - **Shape-Space Graphs: Fast and Collision-Free Path Planning for Soft Robots**  
-**C. Veil**, M. Flaschel, E. Kuhl, *IEEE Robotics and Automation Letters*, 2026. [DOI](https://doi.org/10.1109/LRA.2026.3674004)  
+**C. Veil**, M. Flaschel, E. Kuhl, *IEEE Robotics and Automation Letters*, 2026. [DOI](https://doi.org/10.1109/LRA.2026.3674004), [💡Info](/_posts/2025-10-03-Graphs-preprint.md)    
 - **Soft Everting Robots for Medical Applications: A Review**  
 J. Dinkel, D. Weinmann, P. Pott, **C. Veil**, M. Schäfer, 2025. [engRvix](https://doi.org/10.31224/6684)  
 - **Nonlinear Disturbance Observers for Robotic Continuum Manipulators**  
@@ -66,7 +66,7 @@ D. Müller, **C. Veil**, O. Sawodny. *21st IFAC World Congress*, Berlin, 2020.
 ## Biomedical Engineering Publications
 ### Journals
 - **Bladder Vessel Segmentation using a Hybrid Attention-Convolution Framework**  
-F. Krauß, M. Ege, Z. Lovasz, A. Bartz-Schmidt, I. Tsaur, O. Sawodny, **C.Veil**. Submitted to *IEEE Journal of Biomedical and Health Informatics*, 2026. [arXiv](https://arxiv.org/abs/2602.09949)
+F. Krauß, M. Ege, Z. Lovasz, A. Bartz-Schmidt, I. Tsaur, O. Sawodny, **C.Veil**. Submitted to *IEEE Journal of Biomedical and Health Informatics*, 2026. [arXiv](https://arxiv.org/abs/2602.09949), [💡Info](/_posts/2026-02-12-HAC-preprint.md)  
 - **Electrical Impedance-Based Tissue Classification for Bladder Tumor Differentiation**  
 **C. Veil**, F. Krauß, B. Amend, F. Fend, O. Sawodny. *Scientific Reports*, 2024. [DOI](https://doi.org/10.1038/s41598-024-84844-9)
 - **Cystoscopic Depth Estimation Using Gated Adversarial Domain Adaptation**  
