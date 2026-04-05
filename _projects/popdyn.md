@@ -22,12 +22,13 @@ Populations (in ecology, epidemics, biotechnology, economics, social processes) 
 ![Population Dynamics](/assets/img/research/popdyn-overview.png){:width="800"}
 
 ## Control Lyapunov functions for population dynamics with two species
-Our works revolve around the fact that the considered familiy of IPDE systems can be transformed into a system of two coupled ordinary differential equations (ODE) and two autonomous, exponentially stable integral delay equations (IDE). While predator-prey systems can only be stabilized through *simultaneous harvesting* (removal) of both species, predator-predator systems require *asymetric harvesting* of one species.
+Our works revolve around the fact that the considered family of IPDE systems can be transformed into a system of two coupled ordinary differential equations (ODE) and two autonomous, exponentially stable integral delay equations (IDE). While predator-prey systems can only be stabilized through *simultaneous harvesting* (removal) of both species, predator-predator systems require *asymetric harvesting* of one species.
 
 For **predator-prey** scenarios we use a **Volterra-like control Lyapunov function**:
 - We design a simple feedback which employs possibly negative harvesting for global stabilization of the ODE model, while guaranteeing regional regulation with positive harvesting.
 - Extending this to a more sophisticated, restrained controller we achieve regulation for the ODE model globally, with positive harvesting. 
 - For the full IPDE model, with the IDE dynamics acting as large disturbances, for both the simple and saturated feedback laws we provide explicit estimates of the regions of attraction.   
+
 For **predator-predator** scenarios under asymetric harvesting, we further need to apply **backstepping**. Then:
 - The ODEs are globally stabilized.
 - An estimate of the region of attraction of the asymptotically stabilized equilibrium of the full IPDE system is provided, under a positivity restriction on control.
