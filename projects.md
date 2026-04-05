@@ -7,9 +7,11 @@ permalink: /projects/
 
 ## Control in cardiovascular health
 The heart is essential to our health, yet the automatic control aspect in cardiovascular health is still premature. Each heart is different, every patient has a different health and history, and especially the *female* heart anatomy and physiology is often underrepresented in research.
-What if we could innovate control systems for optimized interaction of soft cardiovascular pumps and wearable biofeedback systems with the human body?
+What if we could innovate control systems for optimized interaction of soft cardiovascular pumps and wearable biofeedback systems with the human body?  
+
 <!-- You will lead research efforts in human-in-the-loop control for medical robotics in the context of -->
 <!-- cardiovascular technologies. The goal is to  -->
+
 📌 **[Explore Project →](/projects/heart-control/)**
 
 ## Soft robot control
