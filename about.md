@@ -14,7 +14,7 @@ redirect_from:
 <!--author-->
 
 My current [projects](/projects/) include:
-* [Control in cardiovascular health](/projects/heart-control.md)
+* [Control in cardiovascular health](/projects/heart-control/)
 * [Control of soft robots](/projects/trunk-project/)
 <!-- * Control of [population dynamics](/projects/popdyn/) represented by hyperbolic partial differential equations. -->
 * [Multi-sensor tissue differentiation for tumor detection](/projects/grk/).
