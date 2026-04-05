@@ -27,7 +27,7 @@ Our works revolve around the fact that the considered familiy of IPDE systems ca
 For **predator-prey** scenarios we use a **Volterra-like control Lyapunov function**:
 - We design a simple feedback which employs possibly negative harvesting for global stabilization of the ODE model, while guaranteeing regional regulation with positive harvesting.
 - Extending this to a more sophisticated, restrained controller we achieve regulation for the ODE model globally, with positive harvesting. 
-- For the full IPDE model, with the IDE dynamics acting as large disturbances, for both the simple and saturated feedback laws we provide explicit estimates of the regions of attraction.
+- For the full IPDE model, with the IDE dynamics acting as large disturbances, for both the simple and saturated feedback laws we provide explicit estimates of the regions of attraction.   
 For **predator-predator** scenarios under asymetric harvesting, we further need to apply **backstepping**. Then:
 - The ODEs are globally stabilized.
 - An estimate of the region of attraction of the asymptotically stabilized equilibrium of the full IPDE system is provided, under a positivity restriction on control.
@@ -37,7 +37,7 @@ For **predator-predator** scenarios under asymetric harvesting, we further need 
 
 
 ## Lotka-Sharpe neural operator for control
-A key challenge in feedback design for these systems is the scalar $\zeta$, defined implicitly by the Lotka-Sharpe nonlinear integral condition, as a  mapping from fertility and mortality rates to $\zeta$. To solve this challenge with operator learning, we first prove that the Lotka-Sharpe operator is Lipschitz continuous, guaranteeing the existence of arbitrarily accurate neural operator approximations over a compact set of fertility and mortality functions. We then show that the resulting approximate feedback law preserves semi-global practical asymptotic stability under propagation of the operator approximation error through various other nonlinear operators, all the way through to the control input.
+A key challenge in feedback design for these systems is the scalar ζ, defined implicitly by the Lotka-Sharpe nonlinear integral condition, as a  mapping from fertility and mortality rates to ζ. To solve this challenge with operator learning, we first prove that the Lotka-Sharpe operator is Lipschitz continuous, guaranteeing the existence of arbitrarily accurate neural operator approximations over a compact set of fertility and mortality functions. We then show that the resulting approximate feedback law preserves semi-global practical asymptotic stability under propagation of the operator approximation error through various other nonlinear operators, all the way through to the control input.
 
 <!-- [📄 Key publication](https://arxiv.org/abs/2507.23013) -->
 [🖥️ GitHub](https://github.com/lukebhan/Lotka-SharpeNeuralOperatorsforControlofPopulationPDEs)
