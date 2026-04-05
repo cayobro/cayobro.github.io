@@ -7,10 +7,10 @@ permalink: /projects/
 
 ## Control in cardiovascular health
 The heart is essential to our health, yet the automatic control aspect in cardiovascular health is still premature. Each heart is different, every patient has a different health and history, and especially the *female* heart anatomy and physiology is often underrepresented in research.
-What if we could innovate control systems for optimized interaction of soft cardiovascular pumps and wearable biofeedback systems with the human body?  
+What if we could innovate control systems for optimized interaction of soft cardiovascular pumps and wearable biofeedback systems with the human body?    
 
 <!-- You will lead research efforts in human-in-the-loop control for medical robotics in the context of -->
-<!-- cardiovascular technologies. The goal is to  -->
+<!-- cardiovascular technologies. The goal is to  -->   
 
 📌 **[Explore Project →](/projects/heart-control/)**
 
@@ -23,7 +23,7 @@ My previous works in robotics dealt with disturbance rejection to control **Fest
 
 📌 **[Explore Project →](/projects/festo-ndob/)**
 
-## Control theory for partial differential equation in the context of population models
+## PDE control for population dynamics
 <!-- In parallel, I work on **control-theoretic questions for hyperbolic partial differential equations** that describe population dynamics.  -->
 Population dynamics are fundamental in biology, ecology, demographics, or epidemiology, where infinite-dimensional systems capture the populations' behavior over time. Their mathematical representation as integro-partial differential equations result in many interesting control problems that we tackle with control Lyapunov functions, backstepping, and neural operators.
 

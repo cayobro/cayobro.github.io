@@ -1,7 +1,7 @@
 ---
-title: Controlling multi-species population dynamics
+title: PDE control for population dynamics
 layout: page
-keywords: [Carina Veil, PDE, Control, Population Dynamics, Researcher]
+keywords: [Carina Veil, PDE, Control, Population Dynamics, Researcher, Krstic]
 # description: Test
 permalink: /projects/popdyn/
 
@@ -20,9 +20,10 @@ Populations (in ecology, epidemics, biotechnology, economics, social processes) 
 
 Our works revolve around the fact that the considered familiy of IPDE systems can be transformed into a system of two coupled ordinary differential equations (ODE) and two autonomous, exponentially stable integral delay equations (IDE).
 
-## Predator-Prey Dynamics
-![Predator-Prey Dynamics](/assets/img/research/predatorprey.png){:width="500"}
+![Population Dynamics](/assets/img/research/popdyn-overview.png){:width="600"}
 
+## Multi-species population dynamics
+### Predator-Prey Dynamics
 With a modified **Volterra-like control Lyapunov function**, 
 - We design a simple feedback which employs possibly negative harvesting for global stabilization of the ODE model, while guaranteeing regional regulation with positive harvesting.
 - Extending this to a more sophisticated, restrained controller we achieve regulation for the ODE model globally, with positive harvesting. 
@@ -30,16 +31,20 @@ With a modified **Volterra-like control Lyapunov function**,
 
 [📄 Key publication](https://ieeexplore.ieee.org/abstract/document/11080060) (also on [arxiv](https://arxiv.org/abs/2410.06823))
 
-## Predator-Predator Dynamics
-![Predator-Prey Dynamics](/assets/img/research/PredatorPredator.png){:width="500"}
-
+### Predator-Predator Dynamics
+<!-- ![Predator-Prey Dynamics](/assets/img/research/PredatorPredator.png){:width="350"} -->
 Using **backstepping**,
 - The ODEs are globally stabilized.
 - An estimate of the region of attraction of the asymptotically stabilized equilibrium of the full IPDE system is provided, under a positivity restriction on control.
 
-
 [📄 Key publication](https://arxiv.org/abs/2507.23013)
+
+## Lotka-Sharpe neural operator for control
+A key challenge in feedback design for these systems is the scalar $\zeta$, defined implicitly by the Lotka-Sharpe nonlinear integral condition, as a  mapping from fertility and mortality rates to $\zeta$. To solve this challenge with operator learning, we first prove that the Lotka-Sharpe operator is Lipschitz continuous, guaranteeing the existence of arbitrarily accurate neural operator approximations over a compact set of fertility and mortality functions. We then show that the resulting approximate feedback law preserves semi-global practical asymptotic stability under propagation of the operator approximation error through various other nonlinear operators, all the way through to the control input.
+
+<!-- [📄 Key publication](https://arxiv.org/abs/2507.23013) -->
+[🖥️ GitHub](https://github.com/lukebhan/Lotka-SharpeNeuralOperatorsforControlofPopulationPDEs)
 
 ---
 
-_Last updated: January 2026_
+_Last updated: April 2026_
