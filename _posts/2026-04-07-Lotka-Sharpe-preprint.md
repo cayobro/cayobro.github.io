@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[preprint] Lotka-Sharpe Neural Operator for Control of Population PDEs"
-date: 2026-03-05
+date: 2026-04-07
 ---
 
 Populations (in ecology, epidemics, biotechnology, economics, social processes) do not only interact over time but also age over time. It is therefore common to model them as **age-structured partial differential equations**, where age is the ‘space variable’. Since the models also involve integrals over age, both in the birth process and in the interaction among species, they are in fact integro-partial differential equations (IPDEs) with positive states and inputs, turning them into an **extremely challenging control problem**.
