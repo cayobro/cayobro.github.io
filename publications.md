@@ -43,7 +43,7 @@ D. Müller, **C. Veil**, O. Sawodny. *21st IFAC World Congress*, Berlin, 2020.
 ## Control Theory Publications
 ### Journal Papers 
 - **Lotka-Sharpe Neural Operators for Control of Population PDEs**  
-  M. Krstić, I. Karafyllis, L. Bhan, **C. Veil**. “Lotka-Sharpe Neural Operators for Control of Population PDEs”. Submitted to *IEEE Transactions on Automatic Control*, 2026.  
+  M. Krstić, I. Karafyllis, L. Bhan, **C. Veil**. “Lotka-Sharpe Neural Operators for Control of Population PDEs”. Submitted to *IEEE Transactions on Automatic Control*, 2026. [arXiv](https://arxiv.org/abs/2604.03892)  
 - **Stabilization of Age-Structured Competing Populations**  
   **C. Veil**, M. Krstić, P. McNamee, O. Sawodny. Submitted to *IFAC Automatica*, 2025. [arXiv](https://arxiv.org/abs/2507.23013)
 - **Stabilization of Predator-Prey Age-Structured Hyperbolic PDE when Harvesting Both Species is Inevitable**  
