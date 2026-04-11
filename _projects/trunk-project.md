@@ -1,5 +1,5 @@
 ---
-title: Soft robots
+title: Soft robot control
 layout: page
 # description: Test
 permalink: /projects/trunk-project/
@@ -36,7 +36,7 @@ In the paper, we extend CLIK to infinite-dimensional shape spaces by composing a
 Here, I present a graph-based path planning tool for an elephant-trunk-inspired soft robotic arm designed with three artificial muscle fibers that allow for multimodal continuous deformation through contraction.
 The paths are directly planned in workspace, or more appropriately, *shape space* (S-space). Our method integrates a biomechanically exact forward kinematics model of a soft robotic arm with a precomputed shape library and a k-nearest neighbor graph that guarantees that all nodes correspond to physically valid shapes, enabling multi- objective planning at high speed. By using signed distance fields (SDFs), clearance is precomputed and infeasible nodes are pruned before search, avoiding expensive collision checks during runtime. This combination of exact modeling and offline graph construction allows us to eliminate dependence on inverse kinematics during online planning and generate efficient and realistic paths.
 
-[📄 Preprint](https://arxiv.org/abs/2510.03547)
+[📄 Open access paper](https://ieeexplore.ieee.org/abstract/document/11433777/)
 
 [🖥️ GitHub](https://github.com/cayobro/shape-space-graphs)
 
