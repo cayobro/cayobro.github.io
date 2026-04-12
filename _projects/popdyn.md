@@ -40,7 +40,7 @@ For **predator-predator** scenarios under asymetric harvesting, we further need 
 ## Lotka-Sharpe neural operator for control
 A key challenge in feedback design for these systems is the scalar ζ, defined implicitly by the Lotka-Sharpe nonlinear integral condition, as a mapping from fertility and mortality rates to ζ. To solve this challenge with operator learning, we first prove that the Lotka-Sharpe operator is Lipschitz continuous, guaranteeing the existence of arbitrarily accurate neural operator approximations over a compact set of fertility and mortality functions. We then show that the resulting approximate feedback law preserves semi-global practical asymptotic stability under propagation of the operator approximation error through various other nonlinear operators, all the way through to the control input.
 
-[📄 Key publication](https://arxiv.org/abs/2604.03892)
+[📄 Key publication](https://arxiv.org/abs/2604.03892)  
 [🖥️ GitHub](https://github.com/lukebhan/Lotka-SharpeNeuralOperatorsforControlofPopulationPDEs)  
 [💡 Gist](https://gist.science/paper/2604.03892#technical)
 
