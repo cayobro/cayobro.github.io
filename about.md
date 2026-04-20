@@ -74,6 +74,7 @@ My current [projects](/projects/) include:
 
 
 #### Talks
+* 2026: *Novel Approaches to Soft Robot Control via Neural Operators*. Copenhagen University, IMAGE Symposium, hosted by Kenny Erleben, 15.04.2026.
 * 2026: Speaker for the “Who-is-who Spotlight Talks” at [AUTOMED x MedRob Symposium](https://www.automed.science), Hanover, Germany, as a “Rising star” in the field, hosted by Thomas Seel, 18.03.2026.
 * 2025: *Elephant Trunk-inspired soft robots*. IT University of Copenhagen, hosted by Kasper Stoy, 21.11.2025.
 * 2025: *Elephant Trunk-inspired soft robots*. *Fueling Minds* talk series at DTU Electro, Technical University of Denmark, hosted by Silvia Tolu at [NRT-Lab](https://www.linkedin.com/company/dtu-nrtlab/posts/?feedView=all), 19.11.2025.
@@ -90,7 +91,8 @@ My current [projects](/projects/) include:
 *	2025: [American Control Conference](https://acc2025.a2c2.org) (ACC).
 *	2024: Springer Nature Scientific Reports.
 *	2024: International Journal for Numerical Methods in Biomedical Engineering. -->
-* 2025: American Control Conference (ACC), IEEE Transactions on Mechatronics, ACS In Focus series, AUTOMED Symposium, 3rd International Conference on Integrated Systems in Medical Technologies (ISMT).
+* 2026: EMBC, AUTOMED Symposium.
+* 2025: American Control Conference (ACC), EMBC, IEEE Transactions on Mechatronics, ACS In Focus series, 3rd International Conference on Integrated Systems in Medical Technologies (ISMT).
 * 2024: Springer Nature Scientific Reports, International Journal for Numerical Methods in Biomedical Engineering.
 
 #### Teaching and mentoring
