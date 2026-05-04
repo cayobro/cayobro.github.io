@@ -45,7 +45,9 @@ Key developments:
 - Cross-modal translation and feature alignment, aiming for knowledge transfer from a strong to a weak modality during training to enhance unimodal performance of the weak modality at inference ([📄 publication IEEE Sensors 2024](https://doi.org/10.1109/SENSORS60989.2024.10784632)).
 - Entropy-based sensor placement and fusion strategies to combine pointwise impedance measurements with wide-field hyperspectral imaging (accepted to IEEE Sensors 2025)
 - Multi-physical tumor modeling for better understanding and model-based investigations ([📄 publication IEEE EMBC 2025](https://ieeexplore.ieee.org/document/11254060))
+- Reliability-weighted multimodal sensor fusion
 
+![Sensor fusion](/assets/img/research/ojemb-sensor-fusion.png){:width="600"}
 ---
 
 ## Intraoperative navigation and localization
@@ -59,6 +61,7 @@ Key developments:
 - Improved datasets and algorithms for **blood vessel segmentation** in the bladder based on endoscopic videos ([📄 publication IEEE EMBC 2025](https://ieeexplore.ieee.org/document/11253092))
 - A hybrid attention-convolution framework to segment blood vessels in the bladder with the goal to create a unique, patient-specific vascular fingerprint ([📃 arXiv](https://arxiv.org/abs/2602.09949))
 
+![HAC](/assets/img/news/hac-paper.jpeg){:width="600"}
 ---
 
 _Last updated: January 2026_
