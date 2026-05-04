@@ -61,7 +61,7 @@ Key developments:
 - Improved datasets and algorithms for **blood vessel segmentation** in the bladder based on endoscopic videos ([📄 publication IEEE EMBC 2025](https://ieeexplore.ieee.org/document/11253092))
 - A hybrid attention-convolution framework to segment blood vessels in the bladder with the goal to create a unique, patient-specific vascular fingerprint ([📃 arXiv](https://arxiv.org/abs/2602.09949))
 
-![HAC](/assets/img/news/hac-paper.jpeg){:width="600"}
+![HAC](/assets/img/news/hac.jpeg){:width="600"}
 ---
 
 _Last updated: January 2026_
