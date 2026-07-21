@@ -8,7 +8,7 @@ In robotics, 𝘤𝘭𝘰𝘴𝘦𝘥-𝘭𝘰𝘰𝘱 𝘪𝘯𝘷𝘦𝘳𝘴�
 
 This wraps up an amazing postdoc year at Stanford University in Ellen Kuhl's Living Matter Lab, and a fantastic collaboration with Cosimo Della Santina (that came with a nice visit to beautiful TU Delft last fall 🇳🇱)
 
-In the paper, we extend CLIK to infinite-dimensional shape spaces by composing an actuation-to-shape map with a shape-to-task map, deriving the differential end-to-end kinematics via an infinite-dimensional chain rule. Since this actuation-to-shape mapping is rarely available in closed form, we propose to learn it using differentiable 𝘯𝘦𝘶𝘳𝘢𝘭 𝘰𝘱𝘦𝘳𝘢𝘵𝘰𝘳 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴 - et voilà, CLIK for soft robots and reasoning about entire shapes rather than just end-effectors. 🥳create a patient-specific vascular fingerprint that we can use for navigation, basically like a roadmap helping surgeons find their way back to important spots.
+In the paper, we extend CLIK to infinite-dimensional shape spaces by composing an actuation-to-shape map with a shape-to-task map, deriving the differential end-to-end kinematics via an infinite-dimensional chain rule. Since this actuation-to-shape mapping is rarely available in closed form, we propose to learn it using differentiable 𝘯𝘦𝘶𝘳𝘢𝘭 𝘰𝘱𝘦𝘳𝘢𝘵𝘰𝘳 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴 - et voilà, CLIK for soft robots and reasoning about entire shapes rather than just end-effectors. 🥳
 
 📃 Link: [arXiv](https://arxiv.org/abs/2602.18655)
 
