@@ -170,8 +170,11 @@
       </div>
 
       <!-- To add more posts later: duplicate one of the blocks above and swap in
-           the urn:li:activity:... ID from the post's URL
-           (linkedin.com/feed/update/urn:li:activity:XXXXXXXXXXXXXXXXXXX/) -->
+           the ID from the post's URL. Get it from LinkedIn's "..." menu →
+           "Embed this post", or from a /posts/... URL slug (the number right
+           before the last dash, e.g. .../posts/username_slug-share-1234567890-abcd/
+           → urn:li:share:1234567890). Only urn:li:share and urn:li:ugcPost work
+           in the embed widget — urn:li:activity IDs (from /feed/update/ URLs) do not. -->
     </div>
   </div>
 </section>
