@@ -76,23 +76,18 @@
 <section class="resume-section" id="news">
   <div class="resume-section-content">
     <h2 class="mb-5">News</h2>
-    <p class="mb-4">Updates about my research activities.</p> 
 
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7435596129637060609?collapsed=1" 
-    height="537" 
-    width="504" 
-    frameborder="0" 
-    allowfullscreen="" 
-    title="Embedded post">
-    </iframe>
-
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7490044604642189312?collapsed=1" 
-    height="626" 
-    width="504" 
-    frameborder="0" 
-    allowfullscreen="" 
-    title="Embedded post">
-    </iframe>
+    <div class="row g-4" id="linkedin-feed">
+        <div class="col-12 col-md-6">
+          <div class="ratio ratio-16x9">
+            <iframe
+              src="https://www.linkedin.com/embed/feed/update/urn:li:share:7435596129637060609?collapsed=1"
+              frameborder="0"
+              allowfullscreen
+              title="LinkedIn post 1">
+            </iframe>
+          </div>
+        </div>
 
     <div class="row g-4" id="linkedin-feed">
       <div class="col-12 col-md-6">
@@ -105,6 +100,26 @@
           </iframe>
         </div>
       </div>
+
+      <!-- Beispiel innerhalb einer Resume-Sektion -->
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+    <div class="flex-grow-1">
+        <h3 class="mb-0">Neueste Updates</h3>
+        <div class="subheading mb-3">LinkedIn Beitrag</div>
+        
+        <!-- Sicheres LinkedIn-Iframe-Design für Safari & Chrome -->
+        <div class="w-100" style="max-width: 550px; margin: 0 auto;">
+            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7490044604642189312?collapsed=1" 
+                    height="600" 
+                    width="100%" 
+                    style="border: none; min-height: 500px; width: 100%;" 
+                    frameborder="0" 
+                    allowfullscreen="" 
+                    title="Embedded LinkedIn Post">
+            </iframe>
+        </div>
+    </div>
+</div>
 
 
        <!-- To add more posts later: duplicate one of the blocks above and swap in
